@@ -1,1 +1,13 @@
+# Liste von gesperrten Konten nach Minecraft-UUID (mit oder ohne Bindestriche,
+# der Launcher normalisiert das). "username" ist nur zur Lesbarkeit hier in der
+# Datei (für Offline-Konten aus dem Namen berechnet: MD5v3 von
+# "OfflinePlayer:<name>") – der Launcher vergleicht ausschließlich die UUID.
+# "reason" wird dem Nutzer direkt angezeigt. Leer lassen ([]) = niemand gesperrt.
 
+- uuid: "bfb20c5c-2f7f-3bb1-84bc-2d7fe7402d35"
+  username: "Test123"
+  reason: "Testsperre (Platzhalter-Konto)"
+
+- uuid: "905d46db-c0b7-3aa3-9f16-82539aaa7a65"
+  username: "Test1234"
+  reason: "Testsperre (Platzhalter-Konto)"
