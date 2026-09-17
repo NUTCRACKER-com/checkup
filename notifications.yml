@@ -1,1 +1,31 @@
+# Neueste zuerst. "title"/"body" sind pro Sprache – aktuell unterstützen wir
+# de/en (siehe Settings -> Sprache im Launcher). Fehlt eine Sprache, fällt der
+# Launcher auf "de" zurück.
 
+- id: "2026-09-17-version-switch"
+  date: "2026-09-17"
+  title:
+    de: "Version wechseln"
+    en: "Switch versions"
+  body:
+    de: "In den Einstellungen könnt ihr jetzt eine bestimmte Launcher- und Client-Version auswählen statt immer der neuesten zu folgen."
+    en: "Settings now let you pin a specific launcher and client version instead of always following the latest."
+
+- id: "2026-09-17-content-rework"
+  date: "2026-09-17"
+  title:
+    de: "Inhalte-Seite überarbeitet"
+    en: "Content page reworked"
+  body:
+    de: "Mods, Resource Packs, Shader und Data Packs haben jetzt eigene Kategorien mit „Entdecken“ und „Installiert“ – angelehnt an NoRiskClient, im eigenen Look."
+    en: "Mods, resource packs, shaders and data packs now have their own categories with \"Discover\" and \"Installed\" – inspired by NoRiskClient, in our own look."
+
+- id: "2026-09-17-welcome"
+  date: "2026-09-17"
+  url: "https://github.com/NUTCRACKER-com/minecraft-launcher"
+  title:
+    de: "Willkommen im NUTclient Launcher"
+    en: "Welcome to the NUTclient Launcher"
+  body:
+    de: "Der Launcher lädt seine Neuigkeiten jetzt live von hier – dieser Eintrag kommt direkt aus dem checkup-Repo, nicht mehr fest eincodiert."
+    en: "The launcher now loads its news live from here – this entry comes straight from the checkup repo instead of being hardcoded."
