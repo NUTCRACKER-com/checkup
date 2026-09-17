@@ -1,1 +1,8 @@
+latest: "0.1.0"
+releasesRepo: "NUTCRACKER-com/minecraft-client"
+notes: "Noch ungenutzt – Platzhalter für den eigenständigen Client."
 
+versions:
+  - version: "0.1.0"
+    date: "2026-09-17"
+    notes: "Integrations-Vertrag (nutclient-client.json, Schemas) – noch kein Binary."
