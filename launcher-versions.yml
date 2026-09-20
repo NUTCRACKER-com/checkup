@@ -1,12 +1,17 @@
-latest: "0.1.0"
+notesEn: "Just testing"
+latest: "0.1.2"
 minSupported: "0.1.0"
-releasesRepo: "NUTCRACKER-com/minecraft-launcher"
-notes: "Aktuelle Version – kein Update-Hinweis. \"latest\" erhöhen, sobald ein neuer Release auf GitHub steht."
+releasesRepo: "NUTCRACKER-com/checkup"
+notes: "Nur ein test"
 
 # Alle Versionen, neueste zuerst. Erscheinen im Launcher unter
 # Einstellungen -> Version als auswählbare Liste (Downgrade/Pin auf eine
 # bestimmte Version, nicht nur "immer neueste").
 versions:
+  - version: "0.1.2"
+    date: "2026-09-20"
+    notes: "Nur ein test"
+    notesEn: "Just testing"
   - version: "0.1.0"
     date: "2026-09-17"
     notes: "Dynamic Island, Themes, Inhalte-Seite, Checkup-Anbindung."
