@@ -1,13 +1,18 @@
-notesEn: "Just testing"
-latest: "0.1.2"
+changelogUrl: "https://laby.net/download"
+notesEn: "teeeeeesssssttting"
+latest: "0.1.4"
 minSupported: "0.1.0"
 releasesRepo: "NUTCRACKER-com/checkup"
-notes: "Nur ein test"
+notes: "teeeeeesssssttt"
 
 # Alle Versionen, neueste zuerst. Erscheinen im Launcher unter
 # Einstellungen -> Version als auswählbare Liste (Downgrade/Pin auf eine
 # bestimmte Version, nicht nur "immer neueste").
 versions:
+  - version: "0.1.4"
+    date: "2026-09-20"
+    notes: "teeeeeesssssttt"
+    notesEn: "teeeeeesssssttting"
   - version: "0.1.2"
     date: "2026-09-20"
     notes: "Nur ein test"
