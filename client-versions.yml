@@ -1,8 +1,15 @@
-latest: "0.1.0"
-releasesRepo: "NUTCRACKER-com/minecraft-client"
-notes: "Noch ungenutzt – Platzhalter für den eigenständigen Client."
+sha1: "10f2b115ab318ceda3c9da9f6cf32f6a6f255b5c"
+jarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-v0.1.1/nutclient-0.1.1.jar"
+notesEn: "We added a update feature."
+latest: "0.1.1"
+releasesRepo: "NUTCRACKER-com/checkup"
+notes: "Wir haben ein update feature hinzugefügt."
 
 versions:
+  - version: "0.1.1"
+    date: "2026-09-20"
+    notes: "Wir haben ein update feature hinzugefügt."
+    notesEn: "We added a update feature."
   - version: "0.1.0"
     date: "2026-09-17"
     notes: "Integrations-Vertrag (nutclient-client.json, Schemas) – noch kein Binary."
