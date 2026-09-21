@@ -1,14 +1,18 @@
 changelogUrl: "https://laby.net/download"
-notesEn: "HUD features"
-latest: "0.1.7"
+notesEn: "Wir haben sehr viele trapper/redstone features geadded und litematica und waypoints"
+latest: "0.1.8"
 minSupported: "0.1.0"
 releasesRepo: "NUTCRACKER-com/checkup"
-notes: "HUD features"
+notes: "Wir haben sehr viele trapper/redstone features geadded und litematica und waypoints"
 
 # Alle Versionen, neueste zuerst. Erscheinen im Launcher unter
 # Einstellungen -> Version als auswählbare Liste (Downgrade/Pin auf eine
 # bestimmte Version, nicht nur "immer neueste").
 versions:
+  - version: "0.1.8"
+    date: "2026-09-22"
+    notes: "Wir haben sehr viele trapper/redstone features geadded und litematica und waypoints"
+    notesEn: "Wir haben sehr viele trapper/redstone features geadded und litematica und waypoints"
   - version: "0.1.7"
     date: "2026-09-21"
     notes: "HUD features"
