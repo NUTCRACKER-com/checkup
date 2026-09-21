@@ -1,14 +1,18 @@
 changelogUrl: "https://laby.net/download"
-notesEn: "update\nen"
-latest: "0.1.5"
+notesEn: "New HUD"
+latest: "0.1.6"
 minSupported: "0.1.0"
 releasesRepo: "NUTCRACKER-com/checkup"
-notes: "update\nde"
+notes: "Neues HUD"
 
 # Alle Versionen, neueste zuerst. Erscheinen im Launcher unter
 # Einstellungen -> Version als auswählbare Liste (Downgrade/Pin auf eine
 # bestimmte Version, nicht nur "immer neueste").
 versions:
+  - version: "0.1.6"
+    date: "2026-09-21"
+    notes: "Neues HUD"
+    notesEn: "New HUD"
   - version: "0.1.5"
     date: "2026-09-21"
     notes: "update\nde"
