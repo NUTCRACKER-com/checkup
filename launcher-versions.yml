@@ -1,14 +1,18 @@
 changelogUrl: "https://laby.net/download"
-notesEn: "yallah"
-latest: "0.1.9"
+notesEn: "yallah\n2"
+latest: "0.1.10"
 minSupported: "0.1.0"
 releasesRepo: "NUTCRACKER-com/checkup"
-notes: "yallah"
+notes: "yallah2"
 
 # Alle Versionen, neueste zuerst. Erscheinen im Launcher unter
 # Einstellungen -> Version als auswählbare Liste (Downgrade/Pin auf eine
 # bestimmte Version, nicht nur "immer neueste").
 versions:
+  - version: "0.1.10"
+    date: "2026-09-22"
+    notes: "yallah2"
+    notesEn: "yallah\n2"
   - version: "0.1.9"
     date: "2026-09-22"
     notes: "yallah"
