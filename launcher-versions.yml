@@ -1,14 +1,18 @@
 changelogUrl: "https://laby.net/download"
-notesEn: "s"
-latest: "0.1.15"
+notesEn: "ttt"
+latest: "0.1.16"
 minSupported: "0.1.0"
 releasesRepo: "NUTCRACKER-com/checkup"
-notes: "s"
+notes: "ttt"
 
 # Alle Versionen, neueste zuerst. Erscheinen im Launcher unter
 # Einstellungen -> Version als auswählbare Liste (Downgrade/Pin auf eine
 # bestimmte Version, nicht nur "immer neueste").
 versions:
+  - version: "0.1.16"
+    date: "2026-09-26"
+    notes: "ttt"
+    notesEn: "ttt"
   - version: "0.1.15"
     date: "2026-09-25"
     notes: "s"
