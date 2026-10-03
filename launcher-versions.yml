@@ -1,14 +1,18 @@
-changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1555545633014677515"
-notesEn: "Emote sync"
-latest: "0.4.3"
+changelogUrl: "https://laby.net/download"
+notesEn: "changes"
+latest: "0.4.4"
 minSupported: "0.1.0"
 releasesRepo: "NUTCRACKER-com/checkup"
-notes: "Emote sync"
+notes: "änderung"
 
 # Alle Versionen, neueste zuerst. Erscheinen im Launcher unter
 # Einstellungen -> Version als auswählbare Liste (Downgrade/Pin auf eine
 # bestimmte Version, nicht nur "immer neueste").
 versions:
+  - version: "0.4.4"
+    date: "2026-10-03"
+    notes: "änderung"
+    notesEn: "changes"
   - version: "0.4.3"
     date: "2026-10-02"
     notes: "Emote sync"
