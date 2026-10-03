@@ -1,14 +1,18 @@
 changelogUrl: "https://laby.net/download"
-notesEn: "changes"
-latest: "0.4.4"
+notesEn: "gg"
+latest: "0.4.5"
 minSupported: "0.1.0"
 releasesRepo: "NUTCRACKER-com/checkup"
-notes: "änderung"
+notes: "gg"
 
 # Alle Versionen, neueste zuerst. Erscheinen im Launcher unter
 # Einstellungen -> Version als auswählbare Liste (Downgrade/Pin auf eine
 # bestimmte Version, nicht nur "immer neueste").
 versions:
+  - version: "0.4.5"
+    date: "2026-10-03"
+    notes: "gg"
+    notesEn: "gg"
   - version: "0.4.4"
     date: "2026-10-03"
     notes: "änderung"
