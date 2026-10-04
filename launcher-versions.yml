@@ -1,14 +1,18 @@
 changelogUrl: "https://laby.net/download"
-notesEn: "F3 Fixes"
-latest: "0.4.6"
+notesEn: "ss"
+latest: "0.4.7"
 minSupported: "0.1.0"
 releasesRepo: "NUTCRACKER-com/checkup"
-notes: "F3 Fixes"
+notes: "ss"
 
 # Alle Versionen, neueste zuerst. Erscheinen im Launcher unter
 # Einstellungen -> Version als auswählbare Liste (Downgrade/Pin auf eine
 # bestimmte Version, nicht nur "immer neueste").
 versions:
+  - version: "0.4.7"
+    date: "2026-10-04"
+    notes: "ss"
+    notesEn: "ss"
   - version: "0.4.6"
     date: "2026-10-04"
     notes: "F3 Fixes"
