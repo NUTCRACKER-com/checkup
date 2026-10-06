@@ -1,6 +1,6 @@
 changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1555545633014677515"
 notesEn: "ddd"
-latest: "0.5.1"
+latest: "0.5.2"
 minSupported: "0.1.0"
 releasesRepo: "NUTCRACKER-com/checkup"
 notes: "ddd"
@@ -9,6 +9,10 @@ notes: "ddd"
 # Einstellungen -> Version als auswählbare Liste (Downgrade/Pin auf eine
 # bestimmte Version, nicht nur "immer neueste").
 versions:
+  - version: "0.5.2"
+    date: "2026-10-06"
+    notes: "ddd"
+    notesEn: "ddd"
   - version: "0.5.1"
     date: "2026-10-06"
     notes: "ddd"
