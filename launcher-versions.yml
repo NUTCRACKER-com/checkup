@@ -1,14 +1,18 @@
 changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1555545633014677515"
-notesEn: "ddd"
-latest: "0.5.3"
+notesEn: "diiihhhh"
+latest: "0.5.4"
 minSupported: "0.1.0"
 releasesRepo: "NUTCRACKER-com/checkup"
-notes: "ddd"
+notes: "diiihhhh"
 
 # Alle Versionen, neueste zuerst. Erscheinen im Launcher unter
 # Einstellungen -> Version als auswählbare Liste (Downgrade/Pin auf eine
 # bestimmte Version, nicht nur "immer neueste").
 versions:
+  - version: "0.5.4"
+    date: "2026-10-07"
+    notes: "diiihhhh"
+    notesEn: "diiihhhh"
   - version: "0.5.3"
     date: "2026-10-06"
     notes: "ddd"
