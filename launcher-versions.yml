@@ -1,16 +1,22 @@
-notesEs: "nametags"
-notesFr: "nametags"
-changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1555545633014677515"
-notesEn: "nametags"
-latest: "0.5.14"
+notesEs: "server"
+notesFr: "server"
+changelogUrl: "https://laby.net/download"
+notesEn: "server"
+latest: "0.5.15"
 minSupported: "0.1.0"
 releasesRepo: "NUTCRACKER-com/checkup"
-notes: "nametags"
+notes: "server"
 
 # Alle Versionen, neueste zuerst. Erscheinen im Launcher unter
 # Einstellungen -> Version als auswählbare Liste (Downgrade/Pin auf eine
 # bestimmte Version, nicht nur "immer neueste").
 versions:
+  - version: "0.5.15"
+    date: "2026-10-15"
+    notes: "server"
+    notesEn: "server"
+    notesFr: "server"
+    notesEs: "server"
   - version: "0.5.14"
     date: "2026-10-14"
     notes: "nametags"
