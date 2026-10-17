@@ -7,7 +7,7 @@ betaJarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-
 betaNotesEn: "toast update"
 betaNotes: "toast update"
 betaLatest: "0.5.17"
-changelogUrl: "https://laby.net/download"
+changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1561098914105532427"
 sha1: "957217b2ea91c1871f75007852a03e5fc724bc62"
 jarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-v0.5.20/nutclient-0.5.20.jar"
 notesEn: "- New: “View changelogs” in Settings and the update window – all changelogs in all languages\n- New: Profiles 2.0 on all versions – now also save graphics, controls, sound, chat and skin settings (selectable per area), color, note, rename, duplicate, share by code, change preview, automatic return to the previous profile, button in the options menu\n- New: Install resource packs by link (Modrinth page or .zip link), optionally activate right away and put into a pack folder\n- New: Ping is now really measured instead of the often far too high server value\n- Fix: The “modules locked” notice now only appears when joining from the server list, not on server transfers (e.g. duels)\n- Fix: Buttons in the resource pack screen no longer overlap the lists, the account button fits the name"
