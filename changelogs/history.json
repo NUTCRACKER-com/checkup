@@ -1,5 +1,14 @@
 [
  {
+  "client": "0.5.21",
+  "launcher": "0.5.20",
+  "date": "2026-10-18",
+  "de": "- Neu: Weniger Lag-Spitzen – Minecraft startet mit Java-Einstellungen für kurze Speicherbereinigungs-Pausen und festem Start-Speicher (wenn du nicht schon eigene Argumente dafür gesetzt hast)\n- Neu: Die Ping-Anzeige zeigt auf Wunsch Netz-Schwankung und PC-Ruckler, so siehst du, ob Lag vom Netzwerk oder vom eigenen PC kommt\n- Neu: Ruckler-Wächter – bei Hängern schreibt der Client in logs/nutclient-stalls.log auf, was das Spiel gerade tat, damit Ruckler gezielt behoben werden können",
+  "en": "- New: Fewer lag spikes – Minecraft now starts with Java settings for short garbage-collection pauses and a fixed starting heap (unless you already set your own arguments for that)\n- New: The ping display can show network jitter and PC stutters, so you can see whether lag comes from the network or your own PC\n- New: Stutter watchdog – on freezes the client writes what the game was doing to logs/nutclient-stalls.log so stutters can be fixed precisely",
+  "fr": "- Nouveau : moins de pics de lag – Minecraft démarre avec des réglages Java pour de courtes pauses du ramasse-miettes et une mémoire de départ fixe (sauf si tu as déjà tes propres arguments)\n- Nouveau : l’affichage du ping peut montrer la variation réseau et les saccades du PC, pour voir si le lag vient du réseau ou de ton PC\n- Nouveau : surveillance des saccades – lors d’un gel, le client note dans logs/nutclient-stalls.log ce que faisait le jeu, afin de corriger précisément les saccades",
+  "es": "- Nuevo: menos picos de lag – Minecraft arranca con ajustes de Java para pausas cortas del recolector de basura y memoria inicial fija (salvo que ya tengas tus propios argumentos)\n- Nuevo: el indicador de ping puede mostrar la variación de red y los tirones del PC, para ver si el lag viene de la red o de tu PC\n- Nuevo: vigilante de tirones – en los bloqueos el cliente anota en logs/nutclient-stalls.log lo que hacía el juego, para corregir los tirones con precisión"
+ },
+ {
   "client": "0.5.20",
   "launcher": "0.5.19",
   "date": "2026-10-17",
