@@ -7,7 +7,7 @@ betaJarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-
 betaNotesEn: "toast update"
 betaNotes: "toast update"
 betaLatest: "0.5.17"
-changelogUrl: "https://laby.net/download"
+changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1561421932174508073"
 sha1: "8393c322f7682e2fa7fd7c1f76cee7c268cb612b"
 jarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-v0.5.21/nutclient-0.5.21.jar"
 notesEn: "- New: Fewer lag spikes – Minecraft now starts with Java settings for short garbage-collection pauses and a fixed starting heap (unless you already set your own arguments for that)\n- New: The ping display can show network jitter and PC stutters, so you can see whether lag comes from the network or your own PC\n- New: Stutter watchdog – on freezes the client writes what the game was doing to logs/nutclient-stalls.log so stutters can be fixed precisely"
