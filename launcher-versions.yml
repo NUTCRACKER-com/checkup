@@ -1,16 +1,22 @@
-notesEs: "- Corregido: la tarjeta de música del launcher ahora es compacta arriba a la derecha y ya no tapa la skin ni el nombre"
-notesFr: "- Corrigé : la carte musique du launcher est désormais compacte en haut à droite et ne cache plus le skin ni le pseudo"
-changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1562135054853873685"
-notesEn: "- Fixed: the music card in the launcher is now compact in the top right and no longer covers the skin or name"
-latest: "0.5.24"
+notesEs: "- Corregido: caída de FPS – las comprobaciones de módulos (reglas de servidor, detección de WorldEdit) se ejecutaban cientos de veces por fotograma y recorrían árboles de comandos; ahora se guardan en caché\n- Corregido: el botón «Cuenta: …» aparecía varias veces apilado"
+notesFr: "- Corrigé : chute de FPS – les vérifications de modules (règles de serveur, détection de WorldEdit) s'exécutaient des centaines de fois par image et parcouraient les arbres de commandes ; désormais mises en cache\n- Corrigé : le bouton « Compte : … » apparaissait plusieurs fois empilé"
+changelogUrl: "https://laby.net/download"
+notesEn: "- Fixed: FPS drop – module checks (server rules, WorldEdit detection) ran hundreds of times per frame and scanned command trees; now cached\n- Fixed: the \"Account: …\" button appeared several times stacked"
+latest: "0.5.25"
 minSupported: "0.1.0"
 releasesRepo: "NUTCRACKER-com/checkup"
-notes: "- Behoben: Musik-Karte im Launcher ist jetzt kompakt oben rechts und überdeckt weder Skin noch Namen"
+notes: "- Behoben: FPS-Einbruch – Modul-Prüfungen (Server-Regeln, WorldEdit-Erkennung) liefen bei jedem Bild hundertfach und durchsuchten dabei Befehlsbäume; jetzt zwischengespeichert\n- Behoben: „Konto: …“-Knopf erschien mehrfach untereinander"
 
 # Alle Versionen, neueste zuerst. Erscheinen im Launcher unter
 # Einstellungen -> Version als auswählbare Liste (Downgrade/Pin auf eine
 # bestimmte Version, nicht nur "immer neueste").
 versions:
+  - version: "0.5.25"
+    date: "2026-10-20"
+    notes: "- Behoben: FPS-Einbruch – Modul-Prüfungen (Server-Regeln, WorldEdit-Erkennung) liefen bei jedem Bild hundertfach und durchsuchten dabei Befehlsbäume; jetzt zwischengespeichert\n- Behoben: „Konto: …“-Knopf erschien mehrfach untereinander"
+    notesEn: "- Fixed: FPS drop – module checks (server rules, WorldEdit detection) ran hundreds of times per frame and scanned command trees; now cached\n- Fixed: the \"Account: …\" button appeared several times stacked"
+    notesFr: "- Corrigé : chute de FPS – les vérifications de modules (règles de serveur, détection de WorldEdit) s'exécutaient des centaines de fois par image et parcouraient les arbres de commandes ; désormais mises en cache\n- Corrigé : le bouton « Compte : … » apparaissait plusieurs fois empilé"
+    notesEs: "- Corregido: caída de FPS – las comprobaciones de módulos (reglas de servidor, detección de WorldEdit) se ejecutaban cientos de veces por fotograma y recorrían árboles de comandos; ahora se guardan en caché\n- Corregido: el botón «Cuenta: …» aparecía varias veces apilado"
   - version: "0.5.24"
     date: "2026-10-20"
     notes: "- Behoben: Musik-Karte im Launcher ist jetzt kompakt oben rechts und überdeckt weder Skin noch Namen"
