@@ -1,6 +1,6 @@
 notesEs: "- Nuevo: exportar perfiles eligiendo el contenido – ajustes del juego, lista de servidores, configs de mods, ajustes de NUTclient y, opcionalmente, packs de recursos y shaders (.nutprofile formato 2; nunca cuentas/tokens ni .jar)\n- Mejorado: los perfiles importados aplican estos archivos a la nueva instancia automáticamente"
 notesFr: "- Nouveau : exporter les profils avec choix du contenu – réglages du jeu, liste de serveurs, configs des mods, réglages NUTclient, en option les packs de ressources et shaders (.nutprofile format 2 ; jamais de comptes/jetons ni de .jar)\n- Amélioré : les profils importés appliquent automatiquement ces fichiers à la nouvelle instance"
-changelogUrl: "https://laby.net/download"
+changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1562073271720087593"
 notesEn: "- New: export profiles with a choice of contents – game settings, server list, mod configs, NUTclient settings, optionally resource pack and shader files (.nutprofile format 2; never accounts/tokens or .jar files)\n- Improved: imported profiles apply these files to the new instance automatically"
 latest: "0.5.23"
 minSupported: "0.1.0"
