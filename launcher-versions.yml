@@ -1,6 +1,6 @@
 notesEs: "- Corregido: Tiers ya no consulta a cada jugador por separado cuando pvptiers.com está caído (pausa de 2 minutos, un aviso y reintento automático)"
 notesFr: "- Corrigé : Tiers n'interroge plus chaque joueur séparément quand pvptiers.com est en panne (pause de 2 minutes, un seul avis, puis nouvelle tentative automatique)"
-changelogUrl: "https://laby.net/download"
+changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1562209255497408685"
 notesEn: "- Fixed: Tiers no longer queries every player separately when pvptiers.com is down (2-minute pause, one notice, then automatic retry)"
 latest: "0.5.27"
 minSupported: "0.1.0"
