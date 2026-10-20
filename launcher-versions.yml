@@ -1,16 +1,22 @@
-notesEs: "- Corregido: caída de FPS – las comprobaciones de módulos (reglas de servidor, detección de WorldEdit) se ejecutaban cientos de veces por fotograma y recorrían árboles de comandos; ahora se guardan en caché\n- Corregido: el botón «Cuenta: …» aparecía varias veces apilado"
-notesFr: "- Corrigé : chute de FPS – les vérifications de modules (règles de serveur, détection de WorldEdit) s'exécutaient des centaines de fois par image et parcouraient les arbres de commandes ; désormais mises en cache\n- Corrigé : le bouton « Compte : … » apparaissait plusieurs fois empilé"
-changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1562185039138132039"
-notesEn: "- Fixed: FPS drop – module checks (server rules, WorldEdit detection) ran hundreds of times per frame and scanned command trees; now cached\n- Fixed: the \"Account: …\" button appeared several times stacked"
-latest: "0.5.25"
+notesEs: "- Corregido: caída de FPS en todas las instancias – se elimina el ajuste de memoria de Java personalizado (valores G1 agresivos), Minecraft arranca de nuevo con los valores predeterminados de Java\n- Mejorado: el vigilante de tirones carga menos el juego"
+notesFr: "- Corrigé : chute de FPS sur toutes les instances – le réglage mémoire Java personnalisé (valeurs G1 agressives) est supprimé, Minecraft démarre de nouveau avec les valeurs Java par défaut\n- Amélioré : le détecteur de saccades charge moins le jeu"
+changelogUrl: "https://laby.net/download"
+notesEn: "- Fixed: FPS drop on all instances – the custom Java memory tuning (aggressive G1 values) is removed, Minecraft starts with normal Java defaults again\n- Improved: the stall watchdog puts less load on the game"
+latest: "0.5.26"
 minSupported: "0.1.0"
 releasesRepo: "NUTCRACKER-com/checkup"
-notes: "- Behoben: FPS-Einbruch – Modul-Prüfungen (Server-Regeln, WorldEdit-Erkennung) liefen bei jedem Bild hundertfach und durchsuchten dabei Befehlsbäume; jetzt zwischengespeichert\n- Behoben: „Konto: …“-Knopf erschien mehrfach untereinander"
+notes: "- Behoben: FPS-Einbruch bei allen Instanzen – das eigene Java-Speicher-Tuning (aggressive G1-Werte) ist entfernt, Minecraft startet wieder mit den normalen Java-Standardwerten\n- Verbessert: Der Hänger-Wächter belastet das Spiel weniger"
 
 # Alle Versionen, neueste zuerst. Erscheinen im Launcher unter
 # Einstellungen -> Version als auswählbare Liste (Downgrade/Pin auf eine
 # bestimmte Version, nicht nur "immer neueste").
 versions:
+  - version: "0.5.26"
+    date: "2026-10-20"
+    notes: "- Behoben: FPS-Einbruch bei allen Instanzen – das eigene Java-Speicher-Tuning (aggressive G1-Werte) ist entfernt, Minecraft startet wieder mit den normalen Java-Standardwerten\n- Verbessert: Der Hänger-Wächter belastet das Spiel weniger"
+    notesEn: "- Fixed: FPS drop on all instances – the custom Java memory tuning (aggressive G1 values) is removed, Minecraft starts with normal Java defaults again\n- Improved: the stall watchdog puts less load on the game"
+    notesFr: "- Corrigé : chute de FPS sur toutes les instances – le réglage mémoire Java personnalisé (valeurs G1 agressives) est supprimé, Minecraft démarre de nouveau avec les valeurs Java par défaut\n- Amélioré : le détecteur de saccades charge moins le jeu"
+    notesEs: "- Corregido: caída de FPS en todas las instancias – se elimina el ajuste de memoria de Java personalizado (valores G1 agresivos), Minecraft arranca de nuevo con los valores predeterminados de Java\n- Mejorado: el vigilante de tirones carga menos el juego"
   - version: "0.5.25"
     date: "2026-10-20"
     notes: "- Behoben: FPS-Einbruch – Modul-Prüfungen (Server-Regeln, WorldEdit-Erkennung) liefen bei jedem Bild hundertfach und durchsuchten dabei Befehlsbäume; jetzt zwischengespeichert\n- Behoben: „Konto: …“-Knopf erschien mehrfach untereinander"
