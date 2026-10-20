@@ -7,7 +7,7 @@ betaJarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-
 betaNotesEn: "toast update"
 betaNotes: "toast update"
 betaLatest: "0.5.17"
-changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1562054029813747713"
+changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1562073271720087593"
 sha1: "df51c3a4cc758f4c0007e341ae8723ef490eda7c"
 jarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-v0.5.23/nutclient-0.5.23.jar"
 notesEn: "- New: server folders in the server list (drag servers onto each other, click to expand/collapse, double-click to open, Del to dissolve) – Minecraft 26.3 only\n- New: resource pack folders – subfolders of resourcepacks/ are recognised, drag packs into folders – Minecraft 26.3 only\n- New: post and upload screenshots without an Imgur account (straight to the NUTclient server, 4 MB, 25 per day)\n- New: creator dashboard in the launcher (supporters, downloads, installs with your code)\n- Improved: ping now shows the real time to the server (ping packet like F3) instead of the time to the proxy\n- Improved: Dynamic FPS removed – no more short 2 FPS phase after alt-tab\n- Improved: Health Indicator sits firmly above the name tag, animates smoothly and is visible through walls\n- Improved: launcher – music card below the top bar (covers nothing any more), gradient primary buttons, buttons no longer overlap"
