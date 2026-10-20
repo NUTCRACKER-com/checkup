@@ -1,6 +1,15 @@
 [
  {
   "client": "0.5.23",
+  "launcher": "0.5.24",
+  "date": "2026-10-20",
+  "de": "- Behoben: Musik-Karte im Launcher ist jetzt kompakt oben rechts und überdeckt weder Skin noch Namen",
+  "en": "- Fixed: the music card in the launcher is now compact in the top right and no longer covers the skin or name",
+  "fr": "- Corrigé : la carte musique du launcher est désormais compacte en haut à droite et ne cache plus le skin ni le pseudo",
+  "es": "- Corregido: la tarjeta de música del launcher ahora es compacta arriba a la derecha y ya no tapa la skin ni el nombre"
+ },
+ {
+  "client": "0.5.23",
   "launcher": "0.5.23",
   "date": "2026-10-20",
   "de": "- Neu: Profile exportieren mit Auswahl – Spiel-Einstellungen, Serverliste, Mod-Configs, NUTclient-Einstellungen, auf Wunsch auch Resourcepack- und Shader-Dateien (.nutprofile Format 2; keine Konten/Tokens, keine .jar)\n- Verbessert: Importierte Profile übernehmen diese Dateien automatisch in die neue Instanz",
