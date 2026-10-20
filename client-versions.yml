@@ -7,7 +7,7 @@ betaJarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-
 betaNotesEn: "toast update"
 betaNotes: "toast update"
 betaLatest: "0.5.17"
-changelogUrl: "https://laby.net/download"
+changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1562202956969812049"
 sha1: "6ed5a117e928c5825dff944a844de393a66300c7"
 jarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-v0.5.25/nutclient-0.5.25.jar"
 notesEn: "- Fixed: FPS drop on all instances – the custom Java memory tuning (aggressive G1 values) is removed, Minecraft starts with normal Java defaults again\n- Improved: the stall watchdog puts less load on the game"
