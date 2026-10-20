@@ -1,5 +1,14 @@
 [
  {
+  "client": "0.5.24",
+  "launcher": "0.5.25",
+  "date": "2026-10-20",
+  "de": "- Behoben: FPS-Einbruch – Modul-Prüfungen (Server-Regeln, WorldEdit-Erkennung) liefen bei jedem Bild hundertfach und durchsuchten dabei Befehlsbäume; jetzt zwischengespeichert\n- Behoben: „Konto: …“-Knopf erschien mehrfach untereinander",
+  "en": "- Fixed: FPS drop – module checks (server rules, WorldEdit detection) ran hundreds of times per frame and scanned command trees; now cached\n- Fixed: the \"Account: …\" button appeared several times stacked",
+  "fr": "- Corrigé : chute de FPS – les vérifications de modules (règles de serveur, détection de WorldEdit) s'exécutaient des centaines de fois par image et parcouraient les arbres de commandes ; désormais mises en cache\n- Corrigé : le bouton « Compte : … » apparaissait plusieurs fois empilé",
+  "es": "- Corregido: caída de FPS – las comprobaciones de módulos (reglas de servidor, detección de WorldEdit) se ejecutaban cientos de veces por fotograma y recorrían árboles de comandos; ahora se guardan en caché\n- Corregido: el botón «Cuenta: …» aparecía varias veces apilado"
+ },
+ {
   "client": "0.5.23",
   "launcher": "0.5.24",
   "date": "2026-10-20",
