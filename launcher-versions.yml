@@ -1,16 +1,22 @@
-notesEs: "- Nuevo: exportar perfiles eligiendo el contenido – ajustes del juego, lista de servidores, configs de mods, ajustes de NUTclient y, opcionalmente, packs de recursos y shaders (.nutprofile formato 2; nunca cuentas/tokens ni .jar)\n- Mejorado: los perfiles importados aplican estos archivos a la nueva instancia automáticamente"
-notesFr: "- Nouveau : exporter les profils avec choix du contenu – réglages du jeu, liste de serveurs, configs des mods, réglages NUTclient, en option les packs de ressources et shaders (.nutprofile format 2 ; jamais de comptes/jetons ni de .jar)\n- Amélioré : les profils importés appliquent automatiquement ces fichiers à la nouvelle instance"
-changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1562073271720087593"
-notesEn: "- New: export profiles with a choice of contents – game settings, server list, mod configs, NUTclient settings, optionally resource pack and shader files (.nutprofile format 2; never accounts/tokens or .jar files)\n- Improved: imported profiles apply these files to the new instance automatically"
-latest: "0.5.23"
+notesEs: "- Corregido: la tarjeta de música del launcher ahora es compacta arriba a la derecha y ya no tapa la skin ni el nombre"
+notesFr: "- Corrigé : la carte musique du launcher est désormais compacte en haut à droite et ne cache plus le skin ni le pseudo"
+changelogUrl: "https://laby.net/download"
+notesEn: "- Fixed: the music card in the launcher is now compact in the top right and no longer covers the skin or name"
+latest: "0.5.24"
 minSupported: "0.1.0"
 releasesRepo: "NUTCRACKER-com/checkup"
-notes: "- Neu: Profile exportieren mit Auswahl – Spiel-Einstellungen, Serverliste, Mod-Configs, NUTclient-Einstellungen, auf Wunsch auch Resourcepack- und Shader-Dateien (.nutprofile Format 2; keine Konten/Tokens, keine .jar)\n- Verbessert: Importierte Profile übernehmen diese Dateien automatisch in die neue Instanz"
+notes: "- Behoben: Musik-Karte im Launcher ist jetzt kompakt oben rechts und überdeckt weder Skin noch Namen"
 
 # Alle Versionen, neueste zuerst. Erscheinen im Launcher unter
 # Einstellungen -> Version als auswählbare Liste (Downgrade/Pin auf eine
 # bestimmte Version, nicht nur "immer neueste").
 versions:
+  - version: "0.5.24"
+    date: "2026-10-20"
+    notes: "- Behoben: Musik-Karte im Launcher ist jetzt kompakt oben rechts und überdeckt weder Skin noch Namen"
+    notesEn: "- Fixed: the music card in the launcher is now compact in the top right and no longer covers the skin or name"
+    notesFr: "- Corrigé : la carte musique du launcher est désormais compacte en haut à droite et ne cache plus le skin ni le pseudo"
+    notesEs: "- Corregido: la tarjeta de música del launcher ahora es compacta arriba a la derecha y ya no tapa la skin ni el nombre"
   - version: "0.5.23"
     date: "2026-10-20"
     notes: "- Neu: Profile exportieren mit Auswahl – Spiel-Einstellungen, Serverliste, Mod-Configs, NUTclient-Einstellungen, auf Wunsch auch Resourcepack- und Shader-Dateien (.nutprofile Format 2; keine Konten/Tokens, keine .jar)\n- Verbessert: Importierte Profile übernehmen diese Dateien automatisch in die neue Instanz"
