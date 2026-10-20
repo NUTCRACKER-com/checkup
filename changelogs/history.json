@@ -1,6 +1,15 @@
 [
  {
   "client": "0.5.23",
+  "launcher": "0.5.23",
+  "date": "2026-10-20",
+  "de": "- Neu: Profile exportieren mit Auswahl – Spiel-Einstellungen, Serverliste, Mod-Configs, NUTclient-Einstellungen, auf Wunsch auch Resourcepack- und Shader-Dateien (.nutprofile Format 2; keine Konten/Tokens, keine .jar)\n- Verbessert: Importierte Profile übernehmen diese Dateien automatisch in die neue Instanz",
+  "en": "- New: export profiles with a choice of contents – game settings, server list, mod configs, NUTclient settings, optionally resource pack and shader files (.nutprofile format 2; never accounts/tokens or .jar files)\n- Improved: imported profiles apply these files to the new instance automatically",
+  "fr": "- Nouveau : exporter les profils avec choix du contenu – réglages du jeu, liste de serveurs, configs des mods, réglages NUTclient, en option les packs de ressources et shaders (.nutprofile format 2 ; jamais de comptes/jetons ni de .jar)\n- Amélioré : les profils importés appliquent automatiquement ces fichiers à la nouvelle instance",
+  "es": "- Nuevo: exportar perfiles eligiendo el contenido – ajustes del juego, lista de servidores, configs de mods, ajustes de NUTclient y, opcionalmente, packs de recursos y shaders (.nutprofile formato 2; nunca cuentas/tokens ni .jar)\n- Mejorado: los perfiles importados aplican estos archivos a la nueva instancia automáticamente"
+ },
+ {
+  "client": "0.5.23",
   "launcher": "0.5.22",
   "date": "2026-10-20",
   "de": "- Neu: Server-Ordner in der Serverliste (Server aufeinander ziehen, Klick klappt auf/zu, Doppelklick öffnet, Entf löst auf) – nur Minecraft 26.3\n- Neu: Resourcepack-Ordner – Unterordner von resourcepacks/ werden erkannt, Packs per Ziehen in Ordner legen – nur Minecraft 26.3\n- Neu: Screenshots posten und hochladen ohne Imgur-Konto (direkt zum NUTclient-Server, 4 MB, 25 pro Tag)\n- Neu: Creator-Dashboard im Launcher (Unterstützer, Downloads, Installationen mit deinem Code)\n- Verbessert: Ping zeigt jetzt die echte Zeit bis zum Server (Ping-Paket wie F3) statt der Zeit bis zum Proxy\n- Verbessert: Dynamic FPS entfernt – keine kurze 2-FPS-Phase mehr nach Alt-Tab\n- Verbessert: Health Indicator sitzt fest über dem Namensschild, läuft geschmeidig und ist auch durch Wände sichtbar\n- Verbessert: Launcher – Musik-Karte unter der oberen Leiste (überdeckt nichts mehr), Hauptknöpfe mit Farbverlauf, Buttons überlappen sich nicht mehr",
