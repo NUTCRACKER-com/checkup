@@ -1,6 +1,6 @@
 notesEs: "- Corregido: caída de FPS – las comprobaciones de módulos (reglas de servidor, detección de WorldEdit) se ejecutaban cientos de veces por fotograma y recorrían árboles de comandos; ahora se guardan en caché\n- Corregido: el botón «Cuenta: …» aparecía varias veces apilado"
 notesFr: "- Corrigé : chute de FPS – les vérifications de modules (règles de serveur, détection de WorldEdit) s'exécutaient des centaines de fois par image et parcouraient les arbres de commandes ; désormais mises en cache\n- Corrigé : le bouton « Compte : … » apparaissait plusieurs fois empilé"
-changelogUrl: "https://laby.net/download"
+changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1562185039138132039"
 notesEn: "- Fixed: FPS drop – module checks (server rules, WorldEdit detection) ran hundreds of times per frame and scanned command trees; now cached\n- Fixed: the \"Account: …\" button appeared several times stacked"
 latest: "0.5.25"
 minSupported: "0.1.0"
