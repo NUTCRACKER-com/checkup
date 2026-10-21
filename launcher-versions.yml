@@ -1,6 +1,6 @@
 notesEs: "- Corregido: los packs de recursos de servidores a menudo no cargaban – los mods «Server Pack Unlocker» y «ResourcePackExtractor» (interfieren con la carga de packs) ya no se instalan y se quitan de las instancias existentes"
 notesFr: "- Corrigé : les packs de ressources des serveurs ne se chargeaient souvent pas – les mods « Server Pack Unlocker » et « ResourcePackExtractor » (qui interfèrent avec le chargement des packs) ne sont plus installés et sont retirés des instances existantes"
-changelogUrl: "https://laby.net/download"
+changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1562543360646848575"
 notesEn: "- Fixed: server resource packs often failed to load – the helper mods \"Server Pack Unlocker\" and \"ResourcePackExtractor\" (which interfere with server pack loading) are no longer installed and are removed from existing instances"
 latest: "0.5.28"
 minSupported: "0.1.0"
