@@ -7,7 +7,7 @@ betaJarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-
 betaNotesEn: "toast update"
 betaNotes: "toast update"
 betaLatest: "0.5.17"
-changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1562209255497408685"
+changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1562543360646848575"
 sha1: "efe86ad7951952870c40b8dc435369b1a2bc5fcf"
 jarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-v0.5.26/nutclient-0.5.26.jar"
 notesEn: "- Fixed: Tiers no longer queries every player separately when pvptiers.com is down (2-minute pause, one notice, then automatic retry)"
