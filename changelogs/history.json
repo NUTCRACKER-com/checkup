@@ -1,6 +1,15 @@
 [
  {
   "client": "0.5.26",
+  "launcher": "0.5.28",
+  "date": "2026-10-21",
+  "de": "- Behoben: Server-Resourcepacks luden oft nicht – die Hilfs-Mods „Server Pack Unlocker“ und „ResourcePackExtractor“ (greifen in das Laden von Server-Packs ein) werden nicht mehr installiert und aus bestehenden Instanzen entfernt",
+  "en": "- Fixed: server resource packs often failed to load – the helper mods \"Server Pack Unlocker\" and \"ResourcePackExtractor\" (which interfere with server pack loading) are no longer installed and are removed from existing instances",
+  "fr": "- Corrigé : les packs de ressources des serveurs ne se chargeaient souvent pas – les mods « Server Pack Unlocker » et « ResourcePackExtractor » (qui interfèrent avec le chargement des packs) ne sont plus installés et sont retirés des instances existantes",
+  "es": "- Corregido: los packs de recursos de servidores a menudo no cargaban – los mods «Server Pack Unlocker» y «ResourcePackExtractor» (interfieren con la carga de packs) ya no se instalan y se quitan de las instancias existentes"
+ },
+ {
+  "client": "0.5.26",
   "launcher": "0.5.27",
   "date": "2026-10-20",
   "de": "- Behoben: Tiers fragt bei einem Ausfall von pvptiers.com nicht mehr für jeden Spieler einzeln an (2 Minuten Pause, einmaliger Hinweis, danach automatisch wieder)",
