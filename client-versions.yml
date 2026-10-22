@@ -7,7 +7,7 @@ betaJarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-
 betaNotesEn: "toast update"
 betaNotes: "toast update"
 betaLatest: "0.5.17"
-changelogUrl: "https://laby.net/download"
+changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1562897413717491757"
 sha1: "e6bf8904815354beaebb06a1336c2aba648748e7"
 jarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-v0.5.29/nutclient-0.5.29.jar"
 notesEn: "- New (26.3 only, beta): Server Hub – a hall with portals to servers (Public / Ours / Partner / Your Servers). Open it with Right Shift, tile 8. The world is deleted when you leave.\n- Cleanup: duplicate modules merged (e.g. totem animation into PvP Clean, chat timestamps/Chat+ into Chat Utils).\n- New settings tabs in the launcher, crash protection for client features."
