@@ -1,5 +1,14 @@
 [
  {
+  "client": "0.5.29",
+  "launcher": "0.5.33",
+  "date": "2026-10-22",
+  "de": "- Neu (nur 26.3, Beta): Server-Hub – eine Halle mit Portalen zu Servern (Public / Ours / Partner / Your Servers). Aufruf: Rechts-Shift, Kachel 8. Die Welt wird beim Verlassen wieder gelöscht.\n- Aufgeräumt: doppelte Module sind zusammengelegt (z. B. Totem-Animation in PvP-Sauber, Chat-Zeitstempel/Chat+ in Chat-Utils).\n- Neue Einstellungs-Reiter im Launcher, Absturz-Schutz für Client-Funktionen.",
+  "en": "- New (26.3 only, beta): Server Hub – a hall with portals to servers (Public / Ours / Partner / Your Servers). Open it with Right Shift, tile 8. The world is deleted when you leave.\n- Cleanup: duplicate modules merged (e.g. totem animation into PvP Clean, chat timestamps/Chat+ into Chat Utils).\n- New settings tabs in the launcher, crash protection for client features.",
+  "fr": "- Nouveau (26.3 uniquement, bêta) : Hub de serveurs – une salle avec des portails vers des serveurs (Public / Ours / Partner / Your Servers). Ouvrir avec Shift droit, tuile 8. Le monde est supprimé en le quittant.\n- Nettoyage : modules en double fusionnés (p. ex. animation du totem dans PvP propre, horodatage/Chat+ dans Chat-Utils).\n- Nouveaux onglets de paramètres dans le lanceur, protection contre les plantages.",
+  "es": "- Nuevo (solo 26.3, beta): Hub de servidores – una sala con portales a servidores (Public / Ours / Partner / Your Servers). Se abre con Shift derecho, mosaico 8. El mundo se borra al salir.\n- Limpieza: módulos duplicados fusionados (p. ej. animación del tótem en PvP limpio, marcas de hora/Chat+ en Chat-Utils).\n- Nuevas pestañas de ajustes en el lanzador, protección contra fallos."
+ },
+ {
   "client": "0.5.28",
   "launcher": "0.5.32",
   "date": "2026-10-22",
