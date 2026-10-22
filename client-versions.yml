@@ -7,7 +7,7 @@ betaJarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-
 betaNotesEn: "toast update"
 betaNotes: "toast update"
 betaLatest: "0.5.17"
-changelogUrl: "https://laby.net/download"
+changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1562882917049573607"
 sha1: "0a93e14c38917ff008c791173b1a2df1b46ca9e1"
 jarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-v0.5.28/nutclient-0.5.28.jar"
 notesEn: "- Fixed: an error in a single feature (e.g. kill effects, clip detection, combat display) can no longer crash the game – the error is logged and the game keeps running"
