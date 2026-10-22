@@ -1,16 +1,22 @@
-notesEs: "- Nuevo: impulso de juego (Windows) – mientras Minecraft está al frente, los demás programas (salvo OBS, Streamlabs, Discord) usan menor prioridad; se restablece al instante con Alt-Tab (ajustes, on/off)\n- Nuevo: comprobación de rendimiento antes de iniciar – avisos sobre mods costosos (Voxy, desenfoque de movimiento, Bobby, shaders …) y demasiada RAM asignada"
-notesFr: "- Nouveau : boost de jeu (Windows) – tant que Minecraft est au premier plan, les autres programmes (sauf OBS, Streamlabs, Discord) tournent avec une priorité plus basse ; rétabli instantanément avec Alt-Tab (réglages, on/off)\n- Nouveau : contrôle de performance avant le lancement – avertit pour les mods coûteux (Voxy, flou de mouvement, Bobby, shaders …) et trop de RAM allouée"
-changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1562766177325949000"
-notesEn: "- New: game boost (Windows) – while Minecraft is in front, other programs (except OBS, Streamlabs, Discord) run at lower priority; restored instantly on alt-tab (settings, on/off)\n- New: performance check before launch – hints about costly mods (Voxy, motion blur, Bobby, shaders …) and too much RAM assigned"
-latest: "0.5.29"
+notesEs: "- Nuevo: carpetas de servidores (arrastra servidores uno sobre otro) y carpetas de packs de recursos (incluidas subcarpetas reales de resourcepacks/) ahora también en 26.2, 26.1.x, 1.21.9–1.21.11 (antes solo 26.3)"
+notesFr: "- Nouveau : dossiers de serveurs (glisser les serveurs l'un sur l'autre) et dossiers de packs de ressources (y compris de vrais sous-dossiers de resourcepacks/) aussi dans 26.2, 26.1.x, 1.21.9–1.21.11 (auparavant 26.3 uniquement)"
+changelogUrl: "https://laby.net/download"
+notesEn: "- New: server folders (drag servers onto each other) and resource pack folders (including real subfolders in resourcepacks/) now also in 26.2, 26.1.x, 1.21.9–1.21.11 (previously 26.3 only)"
+latest: "0.5.30"
 minSupported: "0.1.0"
 releasesRepo: "NUTCRACKER-com/checkup"
-notes: "- Neu: Spiel-Boost (Windows) – solange Minecraft vorne ist, laufen andere Programme (außer OBS, Streamlabs, Discord) mit niedrigerer Priorität; bei Alt-Tab sofort zurück (Einstellungen, ein/aus)\n- Neu: Leistungs-Check vor dem Start – Hinweis auf teure Mods (Voxy, Bewegungsunschärfe, Bobby, Shader …) und zu hohe RAM-Zuteilung"
+notes: "- Neu: Serverordner (Server aufeinander ziehen) und Resourcepack-Ordner (auch echte Unterordner in resourcepacks/) jetzt auch in 26.2, 26.1.x, 1.21.9–1.21.11 (zuvor nur 26.3)"
 
 # Alle Versionen, neueste zuerst. Erscheinen im Launcher unter
 # Einstellungen -> Version als auswählbare Liste (Downgrade/Pin auf eine
 # bestimmte Version, nicht nur "immer neueste").
 versions:
+  - version: "0.5.30"
+    date: "2026-10-22"
+    notes: "- Neu: Serverordner (Server aufeinander ziehen) und Resourcepack-Ordner (auch echte Unterordner in resourcepacks/) jetzt auch in 26.2, 26.1.x, 1.21.9–1.21.11 (zuvor nur 26.3)"
+    notesEn: "- New: server folders (drag servers onto each other) and resource pack folders (including real subfolders in resourcepacks/) now also in 26.2, 26.1.x, 1.21.9–1.21.11 (previously 26.3 only)"
+    notesFr: "- Nouveau : dossiers de serveurs (glisser les serveurs l'un sur l'autre) et dossiers de packs de ressources (y compris de vrais sous-dossiers de resourcepacks/) aussi dans 26.2, 26.1.x, 1.21.9–1.21.11 (auparavant 26.3 uniquement)"
+    notesEs: "- Nuevo: carpetas de servidores (arrastra servidores uno sobre otro) y carpetas de packs de recursos (incluidas subcarpetas reales de resourcepacks/) ahora también en 26.2, 26.1.x, 1.21.9–1.21.11 (antes solo 26.3)"
   - version: "0.5.29"
     date: "2026-10-22"
     notes: "- Neu: Spiel-Boost (Windows) – solange Minecraft vorne ist, laufen andere Programme (außer OBS, Streamlabs, Discord) mit niedrigerer Priorität; bei Alt-Tab sofort zurück (Einstellungen, ein/aus)\n- Neu: Leistungs-Check vor dem Start – Hinweis auf teure Mods (Voxy, Bewegungsunschärfe, Bobby, Shader …) und zu hohe RAM-Zuteilung"
