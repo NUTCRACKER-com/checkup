@@ -1,6 +1,6 @@
 notesEs: "- Nuevo (solo 26.3, beta): Hub de servidores – una sala con portales a servidores (Public / Ours / Partner / Your Servers). Se abre con Shift derecho, mosaico 8. El mundo se borra al salir.\n- Limpieza: módulos duplicados fusionados (p. ej. animación del tótem en PvP limpio, marcas de hora/Chat+ en Chat-Utils).\n- Nuevas pestañas de ajustes en el lanzador, protección contra fallos."
 notesFr: "- Nouveau (26.3 uniquement, bêta) : Hub de serveurs – une salle avec des portails vers des serveurs (Public / Ours / Partner / Your Servers). Ouvrir avec Shift droit, tuile 8. Le monde est supprimé en le quittant.\n- Nettoyage : modules en double fusionnés (p. ex. animation du totem dans PvP propre, horodatage/Chat+ dans Chat-Utils).\n- Nouveaux onglets de paramètres dans le lanceur, protection contre les plantages."
-changelogUrl: "https://laby.net/download"
+changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1562897413717491757"
 notesEn: "- New (26.3 only, beta): Server Hub – a hall with portals to servers (Public / Ours / Partner / Your Servers). Open it with Right Shift, tile 8. The world is deleted when you leave.\n- Cleanup: duplicate modules merged (e.g. totem animation into PvP Clean, chat timestamps/Chat+ into Chat Utils).\n- New settings tabs in the launcher, crash protection for client features."
 latest: "0.5.33"
 minSupported: "0.1.0"
