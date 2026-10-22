@@ -1,16 +1,22 @@
-notesEs: "- Mejorado: los ajustes del launcher son más claros – cuatro pestañas (General, Juego y rendimiento, Cuenta y nube, Ayuda y privacidad) y una búsqueda en todos los ajustes en lugar de una lista larga"
-notesFr: "- Amélioré : réglages du launcher plus clairs – quatre onglets (Général, Jeu & performances, Compte & cloud, Aide & confidentialité) et une recherche dans tous les réglages au lieu d'une longue liste"
-changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1562887183763775499"
-notesEn: "- Improved: launcher settings are clearer – four tabs (General, Game & performance, Account & cloud, Help & privacy) and a search across all settings instead of one long list"
-latest: "0.5.32"
+notesEs: "- Nuevo (solo 26.3, beta): Hub de servidores – una sala con portales a servidores (Public / Ours / Partner / Your Servers). Se abre con Shift derecho, mosaico 8. El mundo se borra al salir.\n- Limpieza: módulos duplicados fusionados (p. ej. animación del tótem en PvP limpio, marcas de hora/Chat+ en Chat-Utils).\n- Nuevas pestañas de ajustes en el lanzador, protección contra fallos."
+notesFr: "- Nouveau (26.3 uniquement, bêta) : Hub de serveurs – une salle avec des portails vers des serveurs (Public / Ours / Partner / Your Servers). Ouvrir avec Shift droit, tuile 8. Le monde est supprimé en le quittant.\n- Nettoyage : modules en double fusionnés (p. ex. animation du totem dans PvP propre, horodatage/Chat+ dans Chat-Utils).\n- Nouveaux onglets de paramètres dans le lanceur, protection contre les plantages."
+changelogUrl: "https://laby.net/download"
+notesEn: "- New (26.3 only, beta): Server Hub – a hall with portals to servers (Public / Ours / Partner / Your Servers). Open it with Right Shift, tile 8. The world is deleted when you leave.\n- Cleanup: duplicate modules merged (e.g. totem animation into PvP Clean, chat timestamps/Chat+ into Chat Utils).\n- New settings tabs in the launcher, crash protection for client features."
+latest: "0.5.33"
 minSupported: "0.1.0"
 releasesRepo: "NUTCRACKER-com/checkup"
-notes: "- Verbessert: Launcher-Einstellungen übersichtlicher – vier Reiter (Allgemein, Spiel & Leistung, Konto & Cloud, Hilfe & Datenschutz) und eine Suche über alle Einstellungen statt einer langen Liste"
+notes: "- Neu (nur 26.3, Beta): Server-Hub – eine Halle mit Portalen zu Servern (Public / Ours / Partner / Your Servers). Aufruf: Rechts-Shift, Kachel 8. Die Welt wird beim Verlassen wieder gelöscht.\n- Aufgeräumt: doppelte Module sind zusammengelegt (z. B. Totem-Animation in PvP-Sauber, Chat-Zeitstempel/Chat+ in Chat-Utils).\n- Neue Einstellungs-Reiter im Launcher, Absturz-Schutz für Client-Funktionen."
 
 # Alle Versionen, neueste zuerst. Erscheinen im Launcher unter
 # Einstellungen -> Version als auswählbare Liste (Downgrade/Pin auf eine
 # bestimmte Version, nicht nur "immer neueste").
 versions:
+  - version: "0.5.33"
+    date: "2026-10-22"
+    notes: "- Neu (nur 26.3, Beta): Server-Hub – eine Halle mit Portalen zu Servern (Public / Ours / Partner / Your Servers). Aufruf: Rechts-Shift, Kachel 8. Die Welt wird beim Verlassen wieder gelöscht.\n- Aufgeräumt: doppelte Module sind zusammengelegt (z. B. Totem-Animation in PvP-Sauber, Chat-Zeitstempel/Chat+ in Chat-Utils).\n- Neue Einstellungs-Reiter im Launcher, Absturz-Schutz für Client-Funktionen."
+    notesEn: "- New (26.3 only, beta): Server Hub – a hall with portals to servers (Public / Ours / Partner / Your Servers). Open it with Right Shift, tile 8. The world is deleted when you leave.\n- Cleanup: duplicate modules merged (e.g. totem animation into PvP Clean, chat timestamps/Chat+ into Chat Utils).\n- New settings tabs in the launcher, crash protection for client features."
+    notesFr: "- Nouveau (26.3 uniquement, bêta) : Hub de serveurs – une salle avec des portails vers des serveurs (Public / Ours / Partner / Your Servers). Ouvrir avec Shift droit, tuile 8. Le monde est supprimé en le quittant.\n- Nettoyage : modules en double fusionnés (p. ex. animation du totem dans PvP propre, horodatage/Chat+ dans Chat-Utils).\n- Nouveaux onglets de paramètres dans le lanceur, protection contre les plantages."
+    notesEs: "- Nuevo (solo 26.3, beta): Hub de servidores – una sala con portales a servidores (Public / Ours / Partner / Your Servers). Se abre con Shift derecho, mosaico 8. El mundo se borra al salir.\n- Limpieza: módulos duplicados fusionados (p. ej. animación del tótem en PvP limpio, marcas de hora/Chat+ en Chat-Utils).\n- Nuevas pestañas de ajustes en el lanzador, protección contra fallos."
   - version: "0.5.32"
     date: "2026-10-22"
     notes: "- Verbessert: Launcher-Einstellungen übersichtlicher – vier Reiter (Allgemein, Spiel & Leistung, Konto & Cloud, Hilfe & Datenschutz) und eine Suche über alle Einstellungen statt einer langen Liste"
