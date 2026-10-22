@@ -7,7 +7,7 @@ betaJarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-
 betaNotesEn: "toast update"
 betaNotes: "toast update"
 betaLatest: "0.5.17"
-changelogUrl: "https://laby.net/download"
+changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1562880038523764737"
 sha1: "cc9bc4a385e1460986d2b11f27ae4637dd9414b1"
 jarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-v0.5.27/nutclient-0.5.27.jar"
 notesEn: "- New: server folders (drag servers onto each other) and resource pack folders (including real subfolders in resourcepacks/) now also in 26.2, 26.1.x, 1.21.9–1.21.11 (previously 26.3 only)"
