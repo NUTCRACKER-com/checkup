@@ -1,6 +1,15 @@
 [
  {
   "client": "0.5.28",
+  "launcher": "0.5.32",
+  "date": "2026-10-22",
+  "de": "- Verbessert: Launcher-Einstellungen übersichtlicher – vier Reiter (Allgemein, Spiel & Leistung, Konto & Cloud, Hilfe & Datenschutz) und eine Suche über alle Einstellungen statt einer langen Liste",
+  "en": "- Improved: launcher settings are clearer – four tabs (General, Game & performance, Account & cloud, Help & privacy) and a search across all settings instead of one long list",
+  "fr": "- Amélioré : réglages du launcher plus clairs – quatre onglets (Général, Jeu & performances, Compte & cloud, Aide & confidentialité) et une recherche dans tous les réglages au lieu d'une longue liste",
+  "es": "- Mejorado: los ajustes del launcher son más claros – cuatro pestañas (General, Juego y rendimiento, Cuenta y nube, Ayuda y privacidad) y una búsqueda en todos los ajustes en lugar de una lista larga"
+ },
+ {
+  "client": "0.5.28",
   "launcher": "0.5.31",
   "date": "2026-10-22",
   "de": "- Behoben: Ein Fehler in einer einzelnen Funktion (z. B. Kill-Effekte, Clip-Erkennung, Kampf-Anzeige) kann das Spiel nicht mehr zum Absturz bringen – der Fehler wird geloggt und das Spiel läuft weiter",
