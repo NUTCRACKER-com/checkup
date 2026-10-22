@@ -1,16 +1,22 @@
-notesEs: "- Corregido: los packs de recursos de servidores a menudo no cargaban – los mods «Server Pack Unlocker» y «ResourcePackExtractor» (interfieren con la carga de packs) ya no se instalan y se quitan de las instancias existentes"
-notesFr: "- Corrigé : les packs de ressources des serveurs ne se chargeaient souvent pas – les mods « Server Pack Unlocker » et « ResourcePackExtractor » (qui interfèrent avec le chargement des packs) ne sont plus installés et sont retirés des instances existantes"
-changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1562543360646848575"
-notesEn: "- Fixed: server resource packs often failed to load – the helper mods \"Server Pack Unlocker\" and \"ResourcePackExtractor\" (which interfere with server pack loading) are no longer installed and are removed from existing instances"
-latest: "0.5.28"
+notesEs: "- Nuevo: impulso de juego (Windows) – mientras Minecraft está al frente, los demás programas (salvo OBS, Streamlabs, Discord) usan menor prioridad; se restablece al instante con Alt-Tab (ajustes, on/off)\n- Nuevo: comprobación de rendimiento antes de iniciar – avisos sobre mods costosos (Voxy, desenfoque de movimiento, Bobby, shaders …) y demasiada RAM asignada"
+notesFr: "- Nouveau : boost de jeu (Windows) – tant que Minecraft est au premier plan, les autres programmes (sauf OBS, Streamlabs, Discord) tournent avec une priorité plus basse ; rétabli instantanément avec Alt-Tab (réglages, on/off)\n- Nouveau : contrôle de performance avant le lancement – avertit pour les mods coûteux (Voxy, flou de mouvement, Bobby, shaders …) et trop de RAM allouée"
+changelogUrl: "https://laby.net/download"
+notesEn: "- New: game boost (Windows) – while Minecraft is in front, other programs (except OBS, Streamlabs, Discord) run at lower priority; restored instantly on alt-tab (settings, on/off)\n- New: performance check before launch – hints about costly mods (Voxy, motion blur, Bobby, shaders …) and too much RAM assigned"
+latest: "0.5.29"
 minSupported: "0.1.0"
 releasesRepo: "NUTCRACKER-com/checkup"
-notes: "- Behoben: Server-Resourcepacks luden oft nicht – die Hilfs-Mods „Server Pack Unlocker“ und „ResourcePackExtractor“ (greifen in das Laden von Server-Packs ein) werden nicht mehr installiert und aus bestehenden Instanzen entfernt"
+notes: "- Neu: Spiel-Boost (Windows) – solange Minecraft vorne ist, laufen andere Programme (außer OBS, Streamlabs, Discord) mit niedrigerer Priorität; bei Alt-Tab sofort zurück (Einstellungen, ein/aus)\n- Neu: Leistungs-Check vor dem Start – Hinweis auf teure Mods (Voxy, Bewegungsunschärfe, Bobby, Shader …) und zu hohe RAM-Zuteilung"
 
 # Alle Versionen, neueste zuerst. Erscheinen im Launcher unter
 # Einstellungen -> Version als auswählbare Liste (Downgrade/Pin auf eine
 # bestimmte Version, nicht nur "immer neueste").
 versions:
+  - version: "0.5.29"
+    date: "2026-10-22"
+    notes: "- Neu: Spiel-Boost (Windows) – solange Minecraft vorne ist, laufen andere Programme (außer OBS, Streamlabs, Discord) mit niedrigerer Priorität; bei Alt-Tab sofort zurück (Einstellungen, ein/aus)\n- Neu: Leistungs-Check vor dem Start – Hinweis auf teure Mods (Voxy, Bewegungsunschärfe, Bobby, Shader …) und zu hohe RAM-Zuteilung"
+    notesEn: "- New: game boost (Windows) – while Minecraft is in front, other programs (except OBS, Streamlabs, Discord) run at lower priority; restored instantly on alt-tab (settings, on/off)\n- New: performance check before launch – hints about costly mods (Voxy, motion blur, Bobby, shaders …) and too much RAM assigned"
+    notesFr: "- Nouveau : boost de jeu (Windows) – tant que Minecraft est au premier plan, les autres programmes (sauf OBS, Streamlabs, Discord) tournent avec une priorité plus basse ; rétabli instantanément avec Alt-Tab (réglages, on/off)\n- Nouveau : contrôle de performance avant le lancement – avertit pour les mods coûteux (Voxy, flou de mouvement, Bobby, shaders …) et trop de RAM allouée"
+    notesEs: "- Nuevo: impulso de juego (Windows) – mientras Minecraft está al frente, los demás programas (salvo OBS, Streamlabs, Discord) usan menor prioridad; se restablece al instante con Alt-Tab (ajustes, on/off)\n- Nuevo: comprobación de rendimiento antes de iniciar – avisos sobre mods costosos (Voxy, desenfoque de movimiento, Bobby, shaders …) y demasiada RAM asignada"
   - version: "0.5.28"
     date: "2026-10-21"
     notes: "- Behoben: Server-Resourcepacks luden oft nicht – die Hilfs-Mods „Server Pack Unlocker“ und „ResourcePackExtractor“ (greifen in das Laden von Server-Packs ein) werden nicht mehr installiert und aus bestehenden Instanzen entfernt"
