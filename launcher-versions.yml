@@ -1,16 +1,22 @@
-notesEs: "- Nuevo: carpetas de servidores (arrastra servidores uno sobre otro) y carpetas de packs de recursos (incluidas subcarpetas reales de resourcepacks/) ahora también en 26.2, 26.1.x, 1.21.9–1.21.11 (antes solo 26.3)"
-notesFr: "- Nouveau : dossiers de serveurs (glisser les serveurs l'un sur l'autre) et dossiers de packs de ressources (y compris de vrais sous-dossiers de resourcepacks/) aussi dans 26.2, 26.1.x, 1.21.9–1.21.11 (auparavant 26.3 uniquement)"
-changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1562880038523764737"
-notesEn: "- New: server folders (drag servers onto each other) and resource pack folders (including real subfolders in resourcepacks/) now also in 26.2, 26.1.x, 1.21.9–1.21.11 (previously 26.3 only)"
-latest: "0.5.30"
+notesEs: "- Corregido: un error en una sola función (p. ej. efectos de kill, detección de clips, panel de combate) ya no puede bloquear el juego – el error se registra y el juego sigue"
+notesFr: "- Corrigé : une erreur dans une seule fonction (p. ex. effets de kill, détection de clips, affichage de combat) ne peut plus faire planter le jeu – l'erreur est consignée et le jeu continue"
+changelogUrl: "https://laby.net/download"
+notesEn: "- Fixed: an error in a single feature (e.g. kill effects, clip detection, combat display) can no longer crash the game – the error is logged and the game keeps running"
+latest: "0.5.31"
 minSupported: "0.1.0"
 releasesRepo: "NUTCRACKER-com/checkup"
-notes: "- Neu: Serverordner (Server aufeinander ziehen) und Resourcepack-Ordner (auch echte Unterordner in resourcepacks/) jetzt auch in 26.2, 26.1.x, 1.21.9–1.21.11 (zuvor nur 26.3)"
+notes: "- Behoben: Ein Fehler in einer einzelnen Funktion (z. B. Kill-Effekte, Clip-Erkennung, Kampf-Anzeige) kann das Spiel nicht mehr zum Absturz bringen – der Fehler wird geloggt und das Spiel läuft weiter"
 
 # Alle Versionen, neueste zuerst. Erscheinen im Launcher unter
 # Einstellungen -> Version als auswählbare Liste (Downgrade/Pin auf eine
 # bestimmte Version, nicht nur "immer neueste").
 versions:
+  - version: "0.5.31"
+    date: "2026-10-22"
+    notes: "- Behoben: Ein Fehler in einer einzelnen Funktion (z. B. Kill-Effekte, Clip-Erkennung, Kampf-Anzeige) kann das Spiel nicht mehr zum Absturz bringen – der Fehler wird geloggt und das Spiel läuft weiter"
+    notesEn: "- Fixed: an error in a single feature (e.g. kill effects, clip detection, combat display) can no longer crash the game – the error is logged and the game keeps running"
+    notesFr: "- Corrigé : une erreur dans une seule fonction (p. ex. effets de kill, détection de clips, affichage de combat) ne peut plus faire planter le jeu – l'erreur est consignée et le jeu continue"
+    notesEs: "- Corregido: un error en una sola función (p. ej. efectos de kill, detección de clips, panel de combate) ya no puede bloquear el juego – el error se registra y el juego sigue"
   - version: "0.5.30"
     date: "2026-10-22"
     notes: "- Neu: Serverordner (Server aufeinander ziehen) und Resourcepack-Ordner (auch echte Unterordner in resourcepacks/) jetzt auch in 26.2, 26.1.x, 1.21.9–1.21.11 (zuvor nur 26.3)"
