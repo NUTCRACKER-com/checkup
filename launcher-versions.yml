@@ -1,16 +1,22 @@
-notesEs: "- Corrección: el hub de servidores se ha eliminado por completo.\n- Nuevo: si el juego se cierra por un fallo, el lanzador abre una ventana con «Subir logs» y «Análisis IA». La ventana de logs también puede subir los logs."
-notesFr: "- Correctif : le hub de serveurs a été entièrement supprimé.\n- Nouveau : si le jeu plante, le lanceur ouvre une fenêtre avec « Envoyer les logs » et « Analyse IA ». La fenêtre des logs peut aussi envoyer les logs."
-changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1564357197838942341"
-notesEn: "- Hotfix: the server hub has been removed completely.\n- New: if the game crashes, the launcher opens a window with \"Upload logs\" and \"AI analysis\". The log window can upload logs too."
-latest: "0.5.36"
+notesEs: "- Envío de capa: las imágenes 2:1 demasiado grandes (p. ej. 4096×2048) se reducen automáticamente a 2048×1024.\n- Las capas aprobadas se pueden equipar en el armario y luego se cargan en el juego."
+notesFr: "- Envoi de cape : les images 2:1 trop grandes (ex. 4096×2048) sont réduites automatiquement à 2048×1024.\n- Les capes approuvées peuvent être équipées dans le casier et s'affichent ensuite en jeu."
+changelogUrl: "https://laby.net/download"
+notesEn: "- Cape submission: oversized 2:1 images (e.g. 4096×2048) are scaled down automatically to 2048×1024.\n- Approved capes can be equipped in the locker and then load in game."
+latest: "0.5.37"
 minSupported: "0.1.0"
 releasesRepo: "NUTCRACKER-com/checkup"
-notes: "- Hotfix: Der Server-Hub wurde komplett entfernt.\n- Neu: Stürzt das Spiel ab, öffnet der Launcher ein Fenster mit „Logs hochladen“ und „KI-Analyse“. Das Log-Fenster kann die Logs ebenfalls hochladen."
+notes: "- Cape einreichen: zu große 2:1-Bilder (z. B. 4096×2048) werden automatisch auf 2048×1024 verkleinert.\n- Freigegebene Capes lassen sich im Schrank ausrüsten und laden dann im Spiel."
 
 # Alle Versionen, neueste zuerst. Erscheinen im Launcher unter
 # Einstellungen -> Version als auswählbare Liste (Downgrade/Pin auf eine
 # bestimmte Version, nicht nur "immer neueste").
 versions:
+  - version: "0.5.37"
+    date: "2026-10-26"
+    notes: "- Cape einreichen: zu große 2:1-Bilder (z. B. 4096×2048) werden automatisch auf 2048×1024 verkleinert.\n- Freigegebene Capes lassen sich im Schrank ausrüsten und laden dann im Spiel."
+    notesEn: "- Cape submission: oversized 2:1 images (e.g. 4096×2048) are scaled down automatically to 2048×1024.\n- Approved capes can be equipped in the locker and then load in game."
+    notesFr: "- Envoi de cape : les images 2:1 trop grandes (ex. 4096×2048) sont réduites automatiquement à 2048×1024.\n- Les capes approuvées peuvent être équipées dans le casier et s'affichent ensuite en jeu."
+    notesEs: "- Envío de capa: las imágenes 2:1 demasiado grandes (p. ej. 4096×2048) se reducen automáticamente a 2048×1024.\n- Las capas aprobadas se pueden equipar en el armario y luego se cargan en el juego."
   - version: "0.5.36"
     date: "2026-10-26"
     notes: "- Hotfix: Der Server-Hub wurde komplett entfernt.\n- Neu: Stürzt das Spiel ab, öffnet der Launcher ein Fenster mit „Logs hochladen“ und „KI-Analyse“. Das Log-Fenster kann die Logs ebenfalls hochladen."
