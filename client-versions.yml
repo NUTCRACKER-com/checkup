@@ -7,7 +7,7 @@ betaJarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-
 betaNotesEn: "toast update"
 betaNotes: "toast update"
 betaLatest: "0.5.17"
-changelogUrl: "https://laby.net/download"
+changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1564405839056601203"
 sha1: "eb0dd0a898a755247f3dcf61787114814b4dd8e1"
 jarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-v0.5.35/nutclient-0.5.35.jar"
 notesEn: "- Hotfix: versions 1.21.10 and 1.21.11 no longer crashed on startup while loading the mod. Fixed.\n- Hotfix: the drop-confirmation sound no longer plays continuously while a locked slot is in hand (26.3).\n- Hotfix: skin search in the launcher works again, even when the previous service hit its limit."
