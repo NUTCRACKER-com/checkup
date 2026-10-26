@@ -7,7 +7,7 @@ betaJarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-
 betaNotesEn: "toast update"
 betaNotes: "toast update"
 betaLatest: "0.5.17"
-changelogUrl: "https://laby.net/download"
+changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1564343324943319123"
 sha1: "d876d378fd898986d324972179f0d964fc38818c"
 jarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-v0.5.31/nutclient-0.5.31.jar"
 notesEn: "- Server hub: its own entry at the top of the server list with portals to servers. Servers whose version list excludes 26.3 are not joined; a chat message explains why.\n- Reconnect: button on the disconnect screen, optional automatic rejoin (module \"Reconnect\"). Not after kick, ban or whitelist.\n- N button on the title screen opens the NUTclient menu.\n- Cloud setting (Vanilla / Off / Fast / Fancy) and particle controls (maximum distance, per-tick cap) in the particle module.\n- Translations: \"Neu verbinden\" in English, French and Spanish.\n- Offline play: if you were last online with an allowed account, you can play without a connection.\n- Open world: switch for online mode (default on) and cheats/commands. The world owner cannot be kicked, banned or killed by commands from others.\n- Drop confirmation can be turned off: only the slot lock stays (26.3).\n- Fix: startup crash in 1.21.8 and 1.21.10 fixed, pack list (26.3)."
