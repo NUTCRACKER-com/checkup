@@ -1,5 +1,14 @@
 [
  {
+  "client": "0.5.35",
+  "launcher": "0.5.39",
+  "date": "2026-10-26",
+  "de": "- Hotfix: Die Versionen 1.21.10 und 1.21.11 starteten nicht mehr (Absturz beim Laden der Mod). Behoben.\n- Hotfix: Der Ton der Wurf-Bestätigung spielt nicht mehr dauerhaft, wenn ein gesperrter Slot in der Hand ist (26.3).\n- Hotfix: Skin-Suche im Launcher funktioniert wieder, auch wenn der frühere Dienst das Limit erreicht hat.",
+  "en": "- Hotfix: versions 1.21.10 and 1.21.11 no longer crashed on startup while loading the mod. Fixed.\n- Hotfix: the drop-confirmation sound no longer plays continuously while a locked slot is in hand (26.3).\n- Hotfix: skin search in the launcher works again, even when the previous service hit its limit.",
+  "fr": "- Correctif : les versions 1.21.10 et 1.21.11 ne plantaient plus au démarrage lors du chargement du mod. Corrigé.\n- Correctif : le son de confirmation de lâcher ne se répète plus en continu quand un slot verrouillé est en main (26.3).\n- Correctif : la recherche de skin du lanceur fonctionne à nouveau, même si l'ancien service a atteint sa limite.",
+  "es": "- Corrección: las versiones 1.21.10 y 1.21.11 ya no se cerraban al iniciar al cargar el mod. Corregido.\n- Corrección: el sonido de confirmación al soltar ya no se repite sin parar con un slot bloqueado en la mano (26.3).\n- Corrección: la búsqueda de skins del lanzador vuelve a funcionar, incluso si el servicio anterior alcanzó su límite."
+ },
+ {
   "client": "0.5.34",
   "launcher": "0.5.38",
   "date": "2026-10-26",
