@@ -7,7 +7,7 @@ betaJarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-
 betaNotesEn: "toast update"
 betaNotes: "toast update"
 betaLatest: "0.5.17"
-changelogUrl: "https://laby.net/download"
+changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1564372939892203661"
 sha1: "e4266c6adb3b03b1dea16b5a4d24c951128b084b"
 jarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-v0.5.33/nutclient-0.5.33.jar"
 notesEn: "- Cape submission: oversized 2:1 images (e.g. 4096×2048) are scaled down automatically to 2048×1024.\n- Approved capes can be equipped in the locker and then load in game."
