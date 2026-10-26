@@ -7,7 +7,7 @@ betaJarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-
 betaNotesEn: "toast update"
 betaNotes: "toast update"
 betaLatest: "0.5.17"
-changelogUrl: "https://laby.net/download"
+changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1564357197838942341"
 sha1: "1f96cc6fe12a3298c7ccad9d9f4083b3287f8840"
 jarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-v0.5.32/nutclient-0.5.32.jar"
 notesEn: "- Hotfix: the server hub has been removed completely.\n- New: if the game crashes, the launcher opens a window with \"Upload logs\" and \"AI analysis\". The log window can upload logs too."
