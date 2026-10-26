@@ -1,6 +1,6 @@
 notesEs: "- Corrección: el hub de servidores se ha eliminado por completo.\n- Nuevo: si el juego se cierra por un fallo, el lanzador abre una ventana con «Subir logs» y «Análisis IA». La ventana de logs también puede subir los logs."
 notesFr: "- Correctif : le hub de serveurs a été entièrement supprimé.\n- Nouveau : si le jeu plante, le lanceur ouvre une fenêtre avec « Envoyer les logs » et « Analyse IA ». La fenêtre des logs peut aussi envoyer les logs."
-changelogUrl: "https://laby.net/download"
+changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1564357197838942341"
 notesEn: "- Hotfix: the server hub has been removed completely.\n- New: if the game crashes, the launcher opens a window with \"Upload logs\" and \"AI analysis\". The log window can upload logs too."
 latest: "0.5.36"
 minSupported: "0.1.0"
