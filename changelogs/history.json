@@ -1,5 +1,14 @@
 [
  {
+  "client": "0.5.32",
+  "launcher": "0.5.36",
+  "date": "2026-10-26",
+  "de": "- Hotfix: Der Server-Hub wurde komplett entfernt.\n- Neu: Stürzt das Spiel ab, öffnet der Launcher ein Fenster mit „Logs hochladen“ und „KI-Analyse“. Das Log-Fenster kann die Logs ebenfalls hochladen.",
+  "en": "- Hotfix: the server hub has been removed completely.\n- New: if the game crashes, the launcher opens a window with \"Upload logs\" and \"AI analysis\". The log window can upload logs too.",
+  "fr": "- Correctif : le hub de serveurs a été entièrement supprimé.\n- Nouveau : si le jeu plante, le lanceur ouvre une fenêtre avec « Envoyer les logs » et « Analyse IA ». La fenêtre des logs peut aussi envoyer les logs.",
+  "es": "- Corrección: el hub de servidores se ha eliminado por completo.\n- Nuevo: si el juego se cierra por un fallo, el lanzador abre una ventana con «Subir logs» y «Análisis IA». La ventana de logs también puede subir los logs."
+ },
+ {
   "client": "0.5.31",
   "launcher": "0.5.35",
   "date": "2026-10-26",
