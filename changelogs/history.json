@@ -1,5 +1,14 @@
 [
  {
+  "client": "0.5.37",
+  "launcher": "0.5.41",
+  "date": "2026-10-27",
+  "de": "- „Welt öffnen“ steht jetzt an der Stelle von „Für LAN öffnen“ im Pause-Menü (nur in der Einzelspieler-Welt, nicht mehr auf Servern).\n- Der Dialog „Welt öffnen“ zeigt Titel und Status nicht mehr über den Eingabefeldern.",
+  "en": "- \"Welt öffnen\" now sits where \"Open to LAN\" was in the pause menu (singleplayer only, no longer shown on servers).\n- The \"Welt öffnen\" dialog no longer draws its title over the input fields.",
+  "fr": "- « Welt öffnen » remplace désormais « Ouvrir au LAN » dans le menu pause (uniquement en solo, plus affiché sur les serveurs).\n- La boîte de dialogue « Welt öffnen » n'affiche plus son titre par-dessus les champs de saisie.",
+  "es": "- « Welt öffnen » ahora está donde estaba « Abrir a LAN » en el menú de pausa (solo en un mundo individual, ya no aparece en servidores).\n- El diálogo « Welt öffnen » ya no dibuja su título encima de los campos de entrada."
+ },
+ {
   "client": "0.5.36",
   "launcher": "0.5.40",
   "date": "2026-10-27",
