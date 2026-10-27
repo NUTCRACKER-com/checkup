@@ -1,5 +1,14 @@
 [
  {
+  "client": "0.5.36",
+  "launcher": "0.5.40",
+  "date": "2026-10-27",
+  "de": "- „Welt öffnen“ ersetzt im Pausenmenü den Knopf „Open to LAN“ bzw. „World Options…“ (alle Versionen). Fehlt beides, erscheint er oben links unter NUTclient.\n- Replay: Im Bild-Menü gibt es den Knopf „Replay“, der den Bereich um dich speichert (alle Versionen).",
+  "en": "- \"Open a world\" replaces the \"Open to LAN\" or \"World Options…\" button in the pause menu (all versions). If neither is there, it appears at the top left under NUTclient.\n- Replay: the image menu has a \"Replay\" button that saves the area around you (all versions).",
+  "fr": "- « Ouvrir un monde » remplace dans le menu pause le bouton « Open to LAN » ou « World Options… » (toutes les versions). Si aucun des deux n'existe, il apparaît en haut à gauche sous NUTclient.\n- Replay : le menu des images contient un bouton « Replay » qui enregistre la zone autour de toi (toutes les versions).",
+  "es": "- «Abrir mundo» reemplaza en el menú de pausa el botón «Open to LAN» o «World Options…» (todas las versiones). Si no hay ninguno, aparece arriba a la izquierda bajo NUTclient.\n- Replay: el menú de imágenes tiene un botón «Replay» que guarda la zona a tu alrededor (todas las versiones)."
+ },
+ {
   "client": "0.5.35",
   "launcher": "0.5.39",
   "date": "2026-10-26",
