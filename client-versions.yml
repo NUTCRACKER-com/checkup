@@ -7,7 +7,7 @@ betaJarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-
 betaNotesEn: "toast update"
 betaNotes: "toast update"
 betaLatest: "0.5.17"
-changelogUrl: "https://laby.net/download"
+changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1564453441713999905"
 sha1: "7b2f5ef9a6e46bc6880a8627b0b5397501aacf09"
 jarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-v0.5.36/nutclient-0.5.36.jar"
 notesEn: "- \"Open a world\" replaces the \"Open to LAN\" or \"World Options…\" button in the pause menu (all versions). If neither is there, it appears at the top left under NUTclient.\n- Replay: the image menu has a \"Replay\" button that saves the area around you (all versions)."
