@@ -7,7 +7,7 @@ betaJarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-
 betaNotesEn: "toast update"
 betaNotes: "toast update"
 betaLatest: "0.5.17"
-changelogUrl: "https://laby.net/download"
+changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1564612516628135987"
 sha1: "149c0ef53a8206864d59b2c1fcd3dc4370d5d7d8"
 jarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-v0.5.37/nutclient-0.5.37.jar"
 notesEn: "- \"Welt öffnen\" now sits where \"Open to LAN\" was in the pause menu (singleplayer only, no longer shown on servers).\n- The \"Welt öffnen\" dialog no longer draws its title over the input fields."
