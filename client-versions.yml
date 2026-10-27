@@ -7,7 +7,7 @@ betaJarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-
 betaNotesEn: "toast update"
 betaNotes: "toast update"
 betaLatest: "0.5.17"
-changelogUrl: "https://laby.net/download"
+changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1564633162628337716"
 sha1: "e433e32a317cee8b68efd7afdec75494ad7dedad"
 jarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-v0.5.38/nutclient-0.5.38.jar"
 notesEn: "- \"Welt öffnen\" now sits where \"Open to LAN\" was in the pause menu (singleplayer only, no longer shown on servers).\n- The \"Welt öffnen\" dialog no longer overlaps its title and status; the join address appears below with a copy button.\n- \"Eigene Domain\": the required DNS records (TXT and A) each have a copy button.\n- \"Neu verbinden\" sits directly below \"Back to Server List\" and shows a countdown for auto-rejoin.\n- The icon picker opens the Windows file dialog (it used to crash in-game).\n- All texts of the \"Welt öffnen\" dialog are translated to English, French and Spanish."
