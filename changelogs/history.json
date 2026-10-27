@@ -1,5 +1,14 @@
 [
  {
+  "client": "0.5.38",
+  "launcher": "0.5.42",
+  "date": "2026-10-27",
+  "de": "- „Welt öffnen“ steht jetzt an der Stelle von „Für LAN öffnen“ im Pause-Menü (nur in der Einzelspieler-Welt, nicht mehr auf Servern).\n- Der Dialog „Welt öffnen“: Titel und Status überdecken nichts mehr, die Join-Adresse steht mit Kopierknopf darunter.\n- „Eigene Domain“: die benötigten DNS-Einträge (TXT und A) haben je einen Kopierknopf.\n- „Neu verbinden“ liegt direkt unter „Zurück zur Serverliste“ und zeigt bei Auto-Beitritt einen Countdown.\n- Icon-Auswahl öffnet den Windows-Dateidialog (vorher Absturzfehler im Spiel).\n- Alle Texte des Welt-öffnen-Dialogs sind auf Englisch, Französisch und Spanisch übersetzt.",
+  "en": "- \"Welt öffnen\" now sits where \"Open to LAN\" was in the pause menu (singleplayer only, no longer shown on servers).\n- The \"Welt öffnen\" dialog no longer overlaps its title and status; the join address appears below with a copy button.\n- \"Eigene Domain\": the required DNS records (TXT and A) each have a copy button.\n- \"Neu verbinden\" sits directly below \"Back to Server List\" and shows a countdown for auto-rejoin.\n- The icon picker opens the Windows file dialog (it used to crash in-game).\n- All texts of the \"Welt öffnen\" dialog are translated to English, French and Spanish.",
+  "fr": "- « Welt öffnen » remplace désormais « Ouvrir au LAN » dans le menu pause (uniquement en solo, plus affiché sur les serveurs).\n- La boîte « Welt öffnen » ne chevauche plus son titre ; l'adresse de connexion s'affiche dessous avec un bouton copier.\n- « Domaine personnalisé » : les enregistrements DNS requis (TXT et A) ont chacun un bouton copier.\n- « Neu verbinden » est juste sous « Retour au serveur » et affiche un compte à rebours pour la reconnexion automatique.\n- Le choix d'icône ouvre la boîte de dialogue Windows (il faisait planter le jeu).\n- Tous les textes de la boîte « Welt öffnen » sont traduits en anglais, français et espagnol.",
+  "es": "- « Welt öffnen » ahora está donde estaba « Abrir a LAN » en el menú de pausa (solo en un mundo individual, ya no aparece en servidores).\n- El diálogo « Welt öffnen » ya no solapa su título; la dirección de conexión aparece debajo con un botón de copiar.\n- « Dominio propio »: los registros DNS necesarios (TXT y A) tienen cada uno un botón de copiar.\n- « Neu verbinden » está justo debajo de « Volver a la lista de servidores » y muestra una cuenta atrás para la reconexión automática.\n- El selector de icono abre el diálogo de archivos de Windows (antes fallaba en el juego).\n- Todos los textos del diálogo « Welt öffnen » están traducidos al inglés, francés y español."
+ },
+ {
   "client": "0.5.37",
   "launcher": "0.5.41",
   "date": "2026-10-27",
