@@ -1,16 +1,22 @@
-notesEs: "- «Abrir mundo» reemplaza en el menú de pausa el botón «Open to LAN» o «World Options…» (todas las versiones). Si no hay ninguno, aparece arriba a la izquierda bajo NUTclient.\n- Replay: el menú de imágenes tiene un botón «Replay» que guarda la zona a tu alrededor (todas las versiones)."
-notesFr: "- « Ouvrir un monde » remplace dans le menu pause le bouton « Open to LAN » ou « World Options… » (toutes les versions). Si aucun des deux n'existe, il apparaît en haut à gauche sous NUTclient.\n- Replay : le menu des images contient un bouton « Replay » qui enregistre la zone autour de toi (toutes les versions)."
-changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1564453441713999905"
-notesEn: "- \"Open a world\" replaces the \"Open to LAN\" or \"World Options…\" button in the pause menu (all versions). If neither is there, it appears at the top left under NUTclient.\n- Replay: the image menu has a \"Replay\" button that saves the area around you (all versions)."
-latest: "0.5.40"
+notesEs: "- « Welt öffnen » ahora está donde estaba « Abrir a LAN » en el menú de pausa (solo en un mundo individual, ya no aparece en servidores).\n- El diálogo « Welt öffnen » ya no dibuja su título encima de los campos de entrada."
+notesFr: "- « Welt öffnen » remplace désormais « Ouvrir au LAN » dans le menu pause (uniquement en solo, plus affiché sur les serveurs).\n- La boîte de dialogue « Welt öffnen » n'affiche plus son titre par-dessus les champs de saisie."
+changelogUrl: "https://laby.net/download"
+notesEn: "- \"Welt öffnen\" now sits where \"Open to LAN\" was in the pause menu (singleplayer only, no longer shown on servers).\n- The \"Welt öffnen\" dialog no longer draws its title over the input fields."
+latest: "0.5.41"
 minSupported: "0.1.0"
 releasesRepo: "NUTCRACKER-com/checkup"
-notes: "- „Welt öffnen“ ersetzt im Pausenmenü den Knopf „Open to LAN“ bzw. „World Options…“ (alle Versionen). Fehlt beides, erscheint er oben links unter NUTclient.\n- Replay: Im Bild-Menü gibt es den Knopf „Replay“, der den Bereich um dich speichert (alle Versionen)."
+notes: "- „Welt öffnen“ steht jetzt an der Stelle von „Für LAN öffnen“ im Pause-Menü (nur in der Einzelspieler-Welt, nicht mehr auf Servern).\n- Der Dialog „Welt öffnen“ zeigt Titel und Status nicht mehr über den Eingabefeldern."
 
 # Alle Versionen, neueste zuerst. Erscheinen im Launcher unter
 # Einstellungen -> Version als auswählbare Liste (Downgrade/Pin auf eine
 # bestimmte Version, nicht nur "immer neueste").
 versions:
+  - version: "0.5.41"
+    date: "2026-10-27"
+    notes: "- „Welt öffnen“ steht jetzt an der Stelle von „Für LAN öffnen“ im Pause-Menü (nur in der Einzelspieler-Welt, nicht mehr auf Servern).\n- Der Dialog „Welt öffnen“ zeigt Titel und Status nicht mehr über den Eingabefeldern."
+    notesEn: "- \"Welt öffnen\" now sits where \"Open to LAN\" was in the pause menu (singleplayer only, no longer shown on servers).\n- The \"Welt öffnen\" dialog no longer draws its title over the input fields."
+    notesFr: "- « Welt öffnen » remplace désormais « Ouvrir au LAN » dans le menu pause (uniquement en solo, plus affiché sur les serveurs).\n- La boîte de dialogue « Welt öffnen » n'affiche plus son titre par-dessus les champs de saisie."
+    notesEs: "- « Welt öffnen » ahora está donde estaba « Abrir a LAN » en el menú de pausa (solo en un mundo individual, ya no aparece en servidores).\n- El diálogo « Welt öffnen » ya no dibuja su título encima de los campos de entrada."
   - version: "0.5.40"
     date: "2026-10-27"
     notes: "- „Welt öffnen“ ersetzt im Pausenmenü den Knopf „Open to LAN“ bzw. „World Options…“ (alle Versionen). Fehlt beides, erscheint er oben links unter NUTclient.\n- Replay: Im Bild-Menü gibt es den Knopf „Replay“, der den Bereich um dich speichert (alle Versionen)."
