@@ -1,5 +1,14 @@
 [
  {
+  "client": "0.5.41",
+  "launcher": "0.5.45",
+  "date": "2026-10-28",
+  "de": "- Hotfix: Fadenkreuz kann jetzt auch in der Ansicht von hinten/vorn (F5) angezeigt werden (Einstellung im Fadenkreuz-Modul, standardmäßig aus).",
+  "en": "- Hotfix: the crosshair can now also be shown in the back/front view (F5) (setting in the crosshair module, off by default).",
+  "fr": "- Correctif : le viseur peut désormais aussi s'afficher en vue arrière/avant (F5) (réglage dans le module viseur, désactivé par défaut).",
+  "es": "- Hotfix: la mira ahora también puede mostrarse en la vista trasera/frontal (F5) (ajuste en el módulo de mira, desactivado por defecto)."
+ },
+ {
   "client": "0.5.40",
   "launcher": "0.5.44",
   "date": "2026-10-28",
