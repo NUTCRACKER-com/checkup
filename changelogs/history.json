@@ -1,5 +1,14 @@
 [
  {
+  "client": "0.5.42",
+  "launcher": "0.5.46",
+  "date": "2026-10-28",
+  "de": "- Hotfix: Logo-Schalter ist jetzt das Modul „Logo“ (HUD). Aus = Logo im Titel-, Pause- und Hub-Menü und im HUD komplett weg.\n- Hotfix: Titel-Logo sitzt unter dem Vanilla-Logo statt darüber.\n- Hotfix: Capes werden nach einem fehlgeschlagenen Laden erneut versucht.\n- HUD-Elemente: Text-, Akzent- und Rahmenfarbe sowie Rahmenbreite einstellbar (HUD-Editor → Seitenleiste). Nur Minecraft 26.3.\n- Musik-Anzeige: vier Darstellungen (Klassisch, Spotify mit Album-Cover, Minimal, Eigene mit Bild und Vorlage). Nur Minecraft 26.3.",
+  "en": "- Hotfix: the logo switch is now the \"Logo\" module (HUD). Off = logo gone from the title, pause and hub menus and the HUD.\n- Hotfix: the title logo sits below the vanilla logo instead of on top of it.\n- Hotfix: capes are retried after a failed load.\n- HUD elements: text, accent and border color and border width can be set (HUD editor → side panel). Minecraft 26.3 only.\n- Music display: four looks (Classic, Spotify with album cover, Minimal, Custom with image and template). Minecraft 26.3 only.",
+  "fr": "- Correctif : l'interrupteur du logo est maintenant le module « Logo » (HUD). Désactivé = logo retiré partout (menus titre, pause, hub et HUD).\n- Correctif : le logo du titre est placé sous le logo vanilla au lieu de dessus.\n- Correctif : les capes sont rechargées après un échec de chargement.\n- Éléments HUD : couleur du texte, d'accent et du cadre ainsi que l'épaisseur du cadre sont réglables (éditeur HUD → panneau latéral). Minecraft 26.3 uniquement.\n- Affichage musique : quatre apparences (Classique, Spotify avec pochette, Minimal, Personnalisé avec image et modèle). Minecraft 26.3 uniquement.",
+  "es": "- Hotfix: el interruptor del logo ahora es el módulo «Logo» (HUD). Desactivado = logo quitado de los menús de título, pausa y hub y del HUD.\n- Hotfix: el logo del título se muestra debajo del logo vanilla en vez de encima.\n- Hotfix: las capas se vuelven a intentar cargar tras un fallo.\n- Elementos HUD: color del texto, de acento y del borde, y grosor del borde ajustables (editor HUD → panel lateral). Solo Minecraft 26.3.\n- Visualización de música: cuatro aspectos (Clásico, Spotify con portada, Mínimo, Personalizado con imagen y plantilla). Solo Minecraft 26.3."
+ },
+ {
   "client": "0.5.41",
   "launcher": "0.5.45",
   "date": "2026-10-28",
