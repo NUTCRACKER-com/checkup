@@ -1,16 +1,22 @@
-notesEs: "- Cambio de skin: una skin de tu biblioteca también se sube a Mojang como skin de tu cuenta de Microsoft al aplicarla (cuentas sin conexión: solo en el launcher).\n- Tu capa equipada ahora se muestra en el launcher: en la vista de skins, en la vista previa y en la página de inicio (Jugar)."
-notesFr: "- Changement de skin : un skin de ta bibliothèque est aussi envoyé à Mojang comme skin de ton compte Microsoft lorsque tu l'appliques (comptes hors ligne : launcher uniquement).\n- Ta cape équipée est maintenant affichée dans le launcher : dans la vue des skins, dans l'aperçu et sur la page d'accueil (Jouer)."
-changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1564806381608112219"
-notesEn: "- Skin change: a skin from your library is now also uploaded to Mojang as the skin of your Microsoft account when you apply it (offline accounts: launcher only).\n- Your equipped cape is now shown in the launcher: in the skin view, in the preview and on the home page (Play)."
-latest: "0.5.44"
+notesEs: "- Hotfix: la mira ahora también puede mostrarse en la vista trasera/frontal (F5) (ajuste en el módulo de mira, desactivado por defecto)."
+notesFr: "- Correctif : le viseur peut désormais aussi s'afficher en vue arrière/avant (F5) (réglage dans le module viseur, désactivé par défaut)."
+changelogUrl: "https://laby.net/download"
+notesEn: "- Hotfix: the crosshair can now also be shown in the back/front view (F5) (setting in the crosshair module, off by default)."
+latest: "0.5.45"
 minSupported: "0.1.0"
 releasesRepo: "NUTCRACKER-com/checkup"
-notes: "- Skin wechseln: Ein Skin aus der Bibliothek wird beim Anwenden zusätzlich als Skin deines Microsoft-Kontos bei Mojang hochgeladen (Offline-Konten: nur im Launcher).\n- Dein ausgerüstetes Cape wird jetzt im Launcher gezeigt: in der Skin-Ansicht, in der Vorschau und auf der Startseite (Play)."
+notes: "- Hotfix: Fadenkreuz kann jetzt auch in der Ansicht von hinten/vorn (F5) angezeigt werden (Einstellung im Fadenkreuz-Modul, standardmäßig aus)."
 
 # Alle Versionen, neueste zuerst. Erscheinen im Launcher unter
 # Einstellungen -> Version als auswählbare Liste (Downgrade/Pin auf eine
 # bestimmte Version, nicht nur "immer neueste").
 versions:
+  - version: "0.5.45"
+    date: "2026-10-28"
+    notes: "- Hotfix: Fadenkreuz kann jetzt auch in der Ansicht von hinten/vorn (F5) angezeigt werden (Einstellung im Fadenkreuz-Modul, standardmäßig aus)."
+    notesEn: "- Hotfix: the crosshair can now also be shown in the back/front view (F5) (setting in the crosshair module, off by default)."
+    notesFr: "- Correctif : le viseur peut désormais aussi s'afficher en vue arrière/avant (F5) (réglage dans le module viseur, désactivé par défaut)."
+    notesEs: "- Hotfix: la mira ahora también puede mostrarse en la vista trasera/frontal (F5) (ajuste en el módulo de mira, desactivado por defecto)."
   - version: "0.5.44"
     date: "2026-10-28"
     notes: "- Skin wechseln: Ein Skin aus der Bibliothek wird beim Anwenden zusätzlich als Skin deines Microsoft-Kontos bei Mojang hochgeladen (Offline-Konten: nur im Launcher).\n- Dein ausgerüstetes Cape wird jetzt im Launcher gezeigt: in der Skin-Ansicht, in der Vorschau und auf der Startseite (Play)."
