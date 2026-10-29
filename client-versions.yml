@@ -7,7 +7,7 @@ betaJarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-
 betaNotesEn: ""
 betaNotes: ""
 betaLatest: "0.5.39"
-changelogUrl: "https://laby.net/download"
+changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1565317995239055473"
 sha1: "b185934abed32c2b5f829efbe88d3fcb20b28f95"
 jarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-v0.5.45/nutclient-0.5.45.jar"
 notesEn: "- New (Minecraft 26.3 only): Server Hub. A hall with portals to servers, sorted into Public / Ours / Partner / Your Servers. Open it with Right Shift, tile 8. The hub world is deleted when you leave.\n- New (Minecraft 26.3 only): Container Tracker. Remembers what is inside chests, barrels, shulker boxes and ender chests when you open them. The data stays local and survives restarts. `/nutchest <item>` finds containers holding the item and marks them in the world with the count. The module is off by default.\n- Cleanup: duplicate modules merged (e.g. totem animation into PvP Clean, chat timestamps/Chat+ into Chat Utils, crystal helpers into Crystal Optimizer).\n- Launcher: new settings tabs with search, crash protection for client features (one failing feature no longer stops the game)."
