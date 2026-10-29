@@ -1,5 +1,14 @@
 [
  {
+  "client": "0.5.46",
+  "launcher": "0.5.50",
+  "date": "2026-10-29",
+  "de": "- Hotfix: kleinere Stabilitäts-Korrekturen am Client und Launcher.",
+  "en": "- Hotfix: minor stability fixes in the client and launcher.",
+  "fr": "- Correctif : petites corrections de stabilité dans le client et le lanceur.",
+  "es": "- Corrección: pequeñas correcciones de estabilidad en el cliente y el lanzador."
+ },
+ {
   "client": "0.5.45",
   "launcher": "0.5.49",
   "date": "2026-10-29",
