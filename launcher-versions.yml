@@ -1,16 +1,22 @@
-notesEs: "- Nuevo: Rastreador de contenedores. Recuerda qué hay dentro de cofres, barriles, cajas shulker y cofres de Ender al abrirlos. Los datos se guardan en local y sobreviven a los reinicios. `/nutchest <objeto>` encuentra los contenedores con ese objeto y los marca en el mundo con la cantidad. El módulo está desactivado por defecto.\n- Nuevo: letra de la música que suena, sincronizada con la línea que se canta (fuente: LRCLIB). Requiere la visualización de música. El módulo está desactivado por defecto."
-notesFr: "- Nouveau : Suivi des conteneurs. Mémorise le contenu des coffres, tonneaux, boîtes de shulker et coffres de l'Ender à l'ouverture. Les données restent en local et survivent aux redémarrages. `/nutchest <objet>` trouve les conteneurs qui contiennent l'objet et les marque dans le monde avec le nombre. Le module est désactivé par défaut.\n- Nouveau : paroles de la musique en cours, synchronisées sur la ligne chantée (source : LRCLIB). Nécessite l'affichage de la musique. Le module est désactivé par défaut."
-changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1565341595413381262"
-notesEn: "- New: Container Tracker. Remembers what is inside chests, barrels, shulker boxes and ender chests when you open them. The data stays local and survives restarts. `/nutchest <item>` finds containers holding the item and marks them in the world with the count. The module is off by default.\n- New: Lyrics for the currently playing music, synced to the line being sung (source: LRCLIB). Needs the Now Playing display. The module is off by default."
-latest: "0.5.51"
+notesEs: ""
+notesFr: ""
+changelogUrl: "https://laby.net/download"
+notesEn: ""
+latest: "0.5.53"
 minSupported: "0.1.0"
 releasesRepo: "NUTCRACKER-com/checkup"
-notes: "- Neu: Behälter-Tracker. Merkt sich beim Öffnen, was in Truhen, Fässern, Shulkerboxen und Ender-Truhen liegt. Die Daten bleiben lokal und überstehen Neustarts. `/nutchest <Gegenstand>` findet Behälter mit dem Gegenstand und markiert sie in der Welt mit Anzahl. Das Modul ist standardmäßig aus.\n- Neu: Liedtext zur laufenden Musik, synchron zur gerade gesungenen Zeile (Quelle: LRCLIB). Braucht die Musik-Anzeige. Das Modul ist standardmäßig aus."
+notes: ""
 
 # Alle Versionen, neueste zuerst. Erscheinen im Launcher unter
 # Einstellungen -> Version als auswählbare Liste (Downgrade/Pin auf eine
 # bestimmte Version, nicht nur "immer neueste").
 versions:
+  - version: "0.5.53"
+    date: "2026-10-29"
+    notes: ""
+    notesEn: ""
+    notesFr: ""
+    notesEs: ""
   - version: "0.5.51"
     date: "2026-10-29"
     notes: "- Neu: Behälter-Tracker. Merkt sich beim Öffnen, was in Truhen, Fässern, Shulkerboxen und Ender-Truhen liegt. Die Daten bleiben lokal und überstehen Neustarts. `/nutchest <Gegenstand>` findet Behälter mit dem Gegenstand und markiert sie in der Welt mit Anzahl. Das Modul ist standardmäßig aus.\n- Neu: Liedtext zur laufenden Musik, synchron zur gerade gesungenen Zeile (Quelle: LRCLIB). Braucht die Musik-Anzeige. Das Modul ist standardmäßig aus."
