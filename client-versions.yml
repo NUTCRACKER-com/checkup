@@ -7,7 +7,7 @@ betaJarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-
 betaNotesEn: ""
 betaNotes: ""
 betaLatest: "0.5.49"
-changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1565341595413381262"
+changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1565473790413115645"
 sha1: "2932cc47e8ff2479f42ebb3f068a87a0c5a37a26"
 jarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-v0.5.47/nutclient-0.5.47.jar"
 notesEn: "- New: Container Tracker. Remembers what is inside chests, barrels, shulker boxes and ender chests when you open them. The data stays local and survives restarts. `/nutchest <item>` finds containers holding the item and marks them in the world with the count. The module is off by default.\n- New: Lyrics for the currently playing music, synced to the line being sung (source: LRCLIB). Needs the Now Playing display. The module is off by default."
