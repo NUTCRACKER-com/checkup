@@ -1,16 +1,22 @@
-notesEs: "- Pequenas correcciones"
-notesFr: "- Petites corrections"
-changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1566096262363742350"
-notesEn: "- Minor fixes"
-latest: "0.5.57"
+notesEs: "- Las insignias en el juego muestran ahora la nuez de NUTclient en lugar del rombo (color segun el rango)\n- La insignia de Admin es morada"
+notesFr: "- Les badges en jeu affichent maintenant la noix NUTclient au lieu du losange (couleur selon le rang)\n- Le badge Admin est violet"
+changelogUrl: "https://laby.net/download"
+notesEn: "- In-game badges now show the NUTclient nut instead of the diamond (colour per rank)\n- Admin badge is purple"
+latest: "0.5.58"
 minSupported: "0.1.0"
 releasesRepo: "NUTCRACKER-com/checkup"
-notes: "- Kleinere Korrekturen"
+notes: "- Abzeichen im Spiel zeigt jetzt die NUTclient-Nuss statt des Rhombus (Farbe je Rang)\n- Admin-Abzeichen ist lila"
 
 # Alle Versionen, neueste zuerst. Erscheinen im Launcher unter
 # Einstellungen -> Version als auswählbare Liste (Downgrade/Pin auf eine
 # bestimmte Version, nicht nur "immer neueste").
 versions:
+  - version: "0.5.58"
+    date: "2026-10-31"
+    notes: "- Abzeichen im Spiel zeigt jetzt die NUTclient-Nuss statt des Rhombus (Farbe je Rang)\n- Admin-Abzeichen ist lila"
+    notesEn: "- In-game badges now show the NUTclient nut instead of the diamond (colour per rank)\n- Admin badge is purple"
+    notesFr: "- Les badges en jeu affichent maintenant la noix NUTclient au lieu du losange (couleur selon le rang)\n- Le badge Admin est violet"
+    notesEs: "- Las insignias en el juego muestran ahora la nuez de NUTclient en lugar del rombo (color segun el rango)\n- La insignia de Admin es morada"
   - version: "0.5.57"
     date: "2026-10-31"
     notes: "- Kleinere Korrekturen"
