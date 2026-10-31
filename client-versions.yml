@@ -7,7 +7,7 @@ betaJarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-
 betaNotesEn: ""
 betaNotes: ""
 betaLatest: "0.5.49"
-changelogUrl: "https://laby.net/download"
+changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1566164729314025522"
 sha1: "18c5a674a4d23643f6c7d340833ff7cfa5fdaa1d"
 jarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-v0.5.58/nutclient-0.5.58.jar"
 notesEn: "- Linux: the update button now opens the new version for download (before, nothing happened)\n- The NUTclient nut replaces the green diamond before the names of NUTclient players (green online, grey offline)\n- The rank line above the name is gone when there is no custom text"
