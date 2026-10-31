@@ -1,16 +1,22 @@
-notesEs: "- Las insignias en el juego muestran la nuez de NUTclient en lugar del rombo, color segun el rango, en todas las versiones\n- La insignia de Admin es morada\n- El nombre en el nametag adicional sigue blanco normal, solo la insignia tiene el color del rango"
-notesFr: "- Les badges en jeu affichent la noix NUTclient au lieu du losange, couleur selon le rang, dans toutes les versions\n- Le badge Admin est violet\n- Le nom dans le nametag supplementaire reste blanc normal, seul le badge a la couleur du rang"
-changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1566125184698556590"
-notesEn: "- In-game badges show the NUTclient nut instead of the diamond, colour per rank, in all versions\n- Admin badge is purple\n- The name in the extra nametag stays normal white, only the badge has the rank colour"
-latest: "0.5.60"
+notesEs: "- Linux: el runtime de Java ahora se descomprime correctamente (el inicio fallaba con \"invalid Zip archive\")\n- Linux: el enlace de inicio de sesión de Microsoft por código abre el navegador con más fiabilidad\n- Linux: interfaz más fluida (desenfoque y transiciones desactivados)\n- Las insignias en el juego muestran la nuez de NUTclient, Admin es morado"
+notesFr: "- Linux : le runtime Java est maintenant extrait correctement (le démarrage échouait avec « invalid Zip archive »)\n- Linux : le lien de connexion Microsoft par code ouvre le navigateur plus fiablement\n- Linux : interface plus fluide (flou et transitions désactivés)\n- Les badges en jeu affichent la noix NUTclient, Admin est violet"
+changelogUrl: "https://laby.net/download"
+notesEn: "- Linux: the Java runtime is now extracted correctly (start failed with \"invalid Zip archive\")\n- Linux: the Microsoft code sign-in link opens the browser more reliably\n- Linux: smoother interface (blur and transitions off)\n- In-game badges show the NUTclient nut, admin is purple"
+latest: "0.5.61"
 minSupported: "0.1.0"
 releasesRepo: "NUTCRACKER-com/checkup"
-notes: "- Abzeichen im Spiel zeigt die NUTclient-Nuss statt des Rhombus, Farbe je Rang, in allen Versionen\n- Admin-Abzeichen ist lila\n- Der Name im Zusatz-Nametag bleibt normal weiß, nur das Abzeichen hat die Rangfarbe"
+notes: "- Linux: Java-Laufzeit wird jetzt richtig entpackt (Start schlug mit „invalid Zip archive“ fehl)\n- Linux: Anmeldung über den Microsoft-Code-Link öffnet den Browser zuverlässiger\n- Linux: Oberfläche ist flüssiger (Unschärfe und Übergänge aus)\n- Abzeichen im Spiel zeigt die NUTclient-Nuss, Admin ist lila"
 
 # Alle Versionen, neueste zuerst. Erscheinen im Launcher unter
 # Einstellungen -> Version als auswählbare Liste (Downgrade/Pin auf eine
 # bestimmte Version, nicht nur "immer neueste").
 versions:
+  - version: "0.5.61"
+    date: "2026-10-31"
+    notes: "- Linux: Java-Laufzeit wird jetzt richtig entpackt (Start schlug mit „invalid Zip archive“ fehl)\n- Linux: Anmeldung über den Microsoft-Code-Link öffnet den Browser zuverlässiger\n- Linux: Oberfläche ist flüssiger (Unschärfe und Übergänge aus)\n- Abzeichen im Spiel zeigt die NUTclient-Nuss, Admin ist lila"
+    notesEn: "- Linux: the Java runtime is now extracted correctly (start failed with \"invalid Zip archive\")\n- Linux: the Microsoft code sign-in link opens the browser more reliably\n- Linux: smoother interface (blur and transitions off)\n- In-game badges show the NUTclient nut, admin is purple"
+    notesFr: "- Linux : le runtime Java est maintenant extrait correctement (le démarrage échouait avec « invalid Zip archive »)\n- Linux : le lien de connexion Microsoft par code ouvre le navigateur plus fiablement\n- Linux : interface plus fluide (flou et transitions désactivés)\n- Les badges en jeu affichent la noix NUTclient, Admin est violet"
+    notesEs: "- Linux: el runtime de Java ahora se descomprime correctamente (el inicio fallaba con \"invalid Zip archive\")\n- Linux: el enlace de inicio de sesión de Microsoft por código abre el navegador con más fiabilidad\n- Linux: interfaz más fluida (desenfoque y transiciones desactivados)\n- Las insignias en el juego muestran la nuez de NUTclient, Admin es morado"
   - version: "0.5.60"
     date: "2026-10-31"
     notes: "- Abzeichen im Spiel zeigt die NUTclient-Nuss statt des Rhombus, Farbe je Rang, in allen Versionen\n- Admin-Abzeichen ist lila\n- Der Name im Zusatz-Nametag bleibt normal weiß, nur das Abzeichen hat die Rangfarbe"
