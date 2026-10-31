@@ -1,6 +1,6 @@
 notesEs: "- Linux: el runtime de Java ahora se descomprime correctamente (el inicio fallaba con \"invalid Zip archive\")\n- Linux: el enlace de inicio de sesión de Microsoft por código abre el navegador con más fiabilidad\n- Linux: interfaz más fluida (desenfoque y transiciones desactivados)\n- Las insignias en el juego muestran la nuez de NUTclient, Admin es morado"
 notesFr: "- Linux : le runtime Java est maintenant extrait correctement (le démarrage échouait avec « invalid Zip archive »)\n- Linux : le lien de connexion Microsoft par code ouvre le navigateur plus fiablement\n- Linux : interface plus fluide (flou et transitions désactivés)\n- Les badges en jeu affichent la noix NUTclient, Admin est violet"
-changelogUrl: "https://laby.net/download"
+changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1566143186189942846"
 notesEn: "- Linux: the Java runtime is now extracted correctly (start failed with \"invalid Zip archive\")\n- Linux: the Microsoft code sign-in link opens the browser more reliably\n- Linux: smoother interface (blur and transitions off)\n- In-game badges show the NUTclient nut, admin is purple"
 latest: "0.5.61"
 minSupported: "0.1.0"
