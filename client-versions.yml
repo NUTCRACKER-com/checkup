@@ -7,7 +7,7 @@ betaJarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-
 betaNotesEn: ""
 betaNotes: ""
 betaLatest: "0.5.49"
-changelogUrl: "https://laby.net/download"
+changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1566143186189942846"
 sha1: "7c382f0288f284f92cfd16c39aeedbebc82952bc"
 jarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-v0.5.57/nutclient-0.5.57.jar"
 notesEn: "- Linux: the Java runtime is now extracted correctly (start failed with \"invalid Zip archive\")\n- Linux: the Microsoft code sign-in link opens the browser more reliably\n- Linux: smoother interface (blur and transitions off)\n- In-game badges show the NUTclient nut, admin is purple"
