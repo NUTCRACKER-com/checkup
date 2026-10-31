@@ -1,5 +1,14 @@
 [
  {
+  "client": "0.5.58",
+  "launcher": "0.5.62",
+  "date": "2026-10-31",
+  "de": "- Linux: Der Update-Knopf öffnet jetzt die neue Version zum Herunterladen (vorher passierte nichts)\n- Die NUTclient-Nuss ersetzt den grünen Rhombus vor den Namen von NUTclient-Spielern (grün online, grau offline)\n- Die Rang-Zeile über dem Namen entfällt, wenn kein eigener Text gesetzt ist",
+  "en": "- Linux: the update button now opens the new version for download (before, nothing happened)\n- The NUTclient nut replaces the green diamond before the names of NUTclient players (green online, grey offline)\n- The rank line above the name is gone when there is no custom text",
+  "fr": "- Linux : le bouton de mise à jour ouvre maintenant la nouvelle version au téléchargement (avant, rien ne se passait)\n- La noix NUTclient remplace le losange vert devant les noms des joueurs NUTclient (vert en ligne, gris hors ligne)\n- La ligne de rang au-dessus du nom disparaît quand aucun texte personnalisé n'est défini",
+  "es": "- Linux: el botón de actualización ahora abre la nueva versión para descargarla (antes no pasaba nada)\n- La nuez de NUTclient reemplaza el rombo verde delante de los nombres de los jugadores de NUTclient (verde en línea, gris sin conexión)\n- La línea de rango sobre el nombre desaparece cuando no hay texto propio"
+ },
+ {
   "client": "0.5.57",
   "launcher": "0.5.61",
   "date": "2026-10-31",
