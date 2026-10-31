@@ -7,7 +7,7 @@ betaJarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-
 betaNotesEn: ""
 betaNotes: ""
 betaLatest: "0.5.49"
-changelogUrl: "https://laby.net/download"
+changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1566058909427437630"
 sha1: "21c6df527d89e586c08bab6e7ea6241809922172"
 jarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-v0.5.50/nutclient-0.5.50.jar"
 notesEn: "- Chest Tracker: own key (search for the held item), the whole double chest glows, the item inside glows too\n- Lyrics is now its own module (Music category) with a 2D and a 3D version\n- Every module can get a key to toggle it on/off\n- \"Reset all settings\" button in every module\n- Profiles show a * when they differ from the current settings\n- Short intro on first start\n- Tips in the HUD editor when hovering an element\n- Ping now updates every second\n- Music display: time and bar are now millisecond-accurate\n- Several modules were missing from the menu and are now there\n- New launcher icon and logo: the NUTclient nut (app, splash screen, setup, top bar)"
