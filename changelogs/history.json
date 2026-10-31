@@ -1,5 +1,14 @@
 [
  {
+  "client": "0.5.57",
+  "launcher": "0.5.61",
+  "date": "2026-10-31",
+  "de": "- Linux: Java-Laufzeit wird jetzt richtig entpackt (Start schlug mit „invalid Zip archive“ fehl)\n- Linux: Anmeldung über den Microsoft-Code-Link öffnet den Browser zuverlässiger\n- Linux: Oberfläche ist flüssiger (Unschärfe und Übergänge aus)\n- Abzeichen im Spiel zeigt die NUTclient-Nuss, Admin ist lila",
+  "en": "- Linux: the Java runtime is now extracted correctly (start failed with \"invalid Zip archive\")\n- Linux: the Microsoft code sign-in link opens the browser more reliably\n- Linux: smoother interface (blur and transitions off)\n- In-game badges show the NUTclient nut, admin is purple",
+  "fr": "- Linux : le runtime Java est maintenant extrait correctement (le démarrage échouait avec « invalid Zip archive »)\n- Linux : le lien de connexion Microsoft par code ouvre le navigateur plus fiablement\n- Linux : interface plus fluide (flou et transitions désactivés)\n- Les badges en jeu affichent la noix NUTclient, Admin est violet",
+  "es": "- Linux: el runtime de Java ahora se descomprime correctamente (el inicio fallaba con \"invalid Zip archive\")\n- Linux: el enlace de inicio de sesión de Microsoft por código abre el navegador con más fiabilidad\n- Linux: interfaz más fluida (desenfoque y transiciones desactivados)\n- Las insignias en el juego muestran la nuez de NUTclient, Admin es morado"
+ },
+ {
   "client": "0.5.56",
   "launcher": "0.5.60",
   "date": "2026-10-31",
