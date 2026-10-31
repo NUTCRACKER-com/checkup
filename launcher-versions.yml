@@ -1,16 +1,22 @@
-notesEs: "- El logo arriba a la izquierda ahora muestra la nuez de NUTclient\n- Nuevo icono del launcher: la nuez de NUTclient (app, pantalla de inicio, configuracion)"
-notesFr: "- Le logo en haut a gauche affiche maintenant la noix NUTclient\n- Nouvelle icone du lanceur : la noix NUTclient (appli, ecran de demarrage, installation)"
-changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1566079139339968513"
-notesEn: "- The logo in the top left now shows the NUTclient nut\n- New launcher icon: the NUTclient nut (app, splash screen, setup)"
-latest: "0.5.55"
+notesEs: "- La barra de tareas muestra ahora de inmediato la nuez de NUTclient para el launcher"
+notesFr: "- La barre des taches affiche maintenant tout de suite la noix NUTclient pour le lanceur"
+changelogUrl: "https://laby.net/download"
+notesEn: "- The taskbar now shows the NUTclient nut for the launcher right away"
+latest: "0.5.56"
 minSupported: "0.1.0"
 releasesRepo: "NUTCRACKER-com/checkup"
-notes: "- Logo oben links zeigt jetzt die NUTclient-Nuss\n- Neues Launcher-Icon: die NUTclient-Nuss (App, Startbild, Einrichtung)"
+notes: "- Taskleiste zeigt beim Launcher jetzt sofort die NUTclient-Nuss"
 
 # Alle Versionen, neueste zuerst. Erscheinen im Launcher unter
 # Einstellungen -> Version als auswählbare Liste (Downgrade/Pin auf eine
 # bestimmte Version, nicht nur "immer neueste").
 versions:
+  - version: "0.5.56"
+    date: "2026-10-31"
+    notes: "- Taskleiste zeigt beim Launcher jetzt sofort die NUTclient-Nuss"
+    notesEn: "- The taskbar now shows the NUTclient nut for the launcher right away"
+    notesFr: "- La barre des taches affiche maintenant tout de suite la noix NUTclient pour le lanceur"
+    notesEs: "- La barra de tareas muestra ahora de inmediato la nuez de NUTclient para el launcher"
   - version: "0.5.55"
     date: "2026-10-31"
     notes: "- Logo oben links zeigt jetzt die NUTclient-Nuss\n- Neues Launcher-Icon: die NUTclient-Nuss (App, Startbild, Einrichtung)"
