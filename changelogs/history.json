@@ -1,5 +1,14 @@
 [
  {
+  "client": "0.5.54",
+  "launcher": "0.5.58",
+  "date": "2026-10-31",
+  "de": "- Abzeichen im Spiel zeigt jetzt die NUTclient-Nuss statt des Rhombus (Farbe je Rang)\n- Admin-Abzeichen ist lila",
+  "en": "- In-game badges now show the NUTclient nut instead of the diamond (colour per rank)\n- Admin badge is purple",
+  "fr": "- Les badges en jeu affichent maintenant la noix NUTclient au lieu du losange (couleur selon le rang)\n- Le badge Admin est violet",
+  "es": "- Las insignias en el juego muestran ahora la nuez de NUTclient en lugar del rombo (color segun el rango)\n- La insignia de Admin es morada"
+ },
+ {
   "client": "0.5.53",
   "launcher": "0.5.57",
   "date": "2026-10-31",
