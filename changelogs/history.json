@@ -1,5 +1,14 @@
 [
  {
+  "client": "0.5.52",
+  "launcher": "0.5.56",
+  "date": "2026-10-31",
+  "de": "- Taskleiste zeigt beim Launcher jetzt sofort die NUTclient-Nuss",
+  "en": "- The taskbar now shows the NUTclient nut for the launcher right away",
+  "fr": "- La barre des taches affiche maintenant tout de suite la noix NUTclient pour le lanceur",
+  "es": "- La barra de tareas muestra ahora de inmediato la nuez de NUTclient para el launcher"
+ },
+ {
   "client": "0.5.51",
   "launcher": "0.5.55",
   "date": "2026-10-31",
