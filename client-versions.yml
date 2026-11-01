@@ -7,7 +7,7 @@ betaJarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-
 betaNotesEn: ""
 betaNotes: ""
 betaLatest: "0.5.49"
-changelogUrl: "https://laby.net/download"
+changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1566481039222767657"
 sha1: "f985f3d0c15da422ea56494f562999999d19501c"
 jarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-v0.5.59/nutclient-0.5.59.jar"
 notesEn: "- Freecam: your own player is now drawn in freecam (body, skin, armor). The hitbox display no longer draws a box around the camera.\n- Freecam: \"Disable on damage\" is its own switch in the freecam module (off by default).\n- Launcher: new setting \"Start when Windows starts\" (off by default).\n- Translations: first batch for English, French and Spanish.\n- Creator program, team markers, Xaero waypoints from chat and the new menu design are included in this version."
