@@ -7,7 +7,7 @@ betaJarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-
 betaNotesEn: ""
 betaNotes: ""
 betaLatest: "0.5.49"
-changelogUrl: "https://laby.net/download"
+changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1566519091005751490"
 sha1: "ebf31e86521331cbba6aa95fe913cf49099d9495"
 jarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-v0.5.60/nutclient-0.5.60.jar"
 notesEn: "- Name tags: if a server has its own name tag (team prefix, text display or name passenger), NUTclient no longer draws its own. Role icon and extra text are added to the server's tag instead.\n- Name tags: the role icon sits in the name line instead of the upper extra line. Each player now has a single nut: in the role colour, white without a role.\n- The nut icon is high resolution (256 px instead of 32 px) and much sharper up close.\n- Minecraft 1.21.9: works again with Fabric API 0.133.14.\n- Linux: the build works again (AppImage and .deb)."
