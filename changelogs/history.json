@@ -1,5 +1,14 @@
 [
  {
+  "client": "0.5.70",
+  "launcher": "0.5.74",
+  "date": "2026-11-04",
+  "de": "- Liedtext: Die neue Einstellungsseite mit Live-Vorschau und Reitern (Anzeige, Farben, 3D, Zeit & Suche, Tasten) gibt es jetzt in allen Minecraft-Versionen.",
+  "en": "- Lyrics: the new settings page with live preview and tabs (Display, Colours, 3D, Timing & Search, Keys) is now available in every Minecraft version.",
+  "fr": "- Paroles : la nouvelle page de réglages avec aperçu en direct et onglets (Affichage, Couleurs, 3D, Temps et recherche, Touches) est disponible dans toutes les versions de Minecraft.",
+  "es": "- Letras: la nueva página de ajustes con vista previa en vivo y pestañas (Pantalla, Colores, 3D, Tiempo y búsqueda, Teclas) ya está en todas las versiones de Minecraft."
+ },
+ {
   "client": "0.5.69",
   "launcher": "0.5.73",
   "date": "2026-11-04",
