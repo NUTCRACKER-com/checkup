@@ -1,5 +1,14 @@
 [
  {
+  "client": "0.5.71",
+  "launcher": "0.5.75",
+  "date": "2026-11-05",
+  "de": "- Liedtext ist in allen Versionen jetzt in der Modulliste unter „Musik“ zu finden (vorher nur im HUD-Editor versteckt).\n- Neues Abzeichen für Übersetzer: grün, mit der Bezeichnung „Translator“. Team-Mitglieder mit Übersetzer-Rolle bekommen es statt des pinken Team-Abzeichens.",
+  "en": "- Lyrics now appear in the module list under \"Music\" in all versions (previously hidden in the HUD editor only).\n- New translator badge: green, labelled \"Translator\". Team members with the translator role get it instead of the pink team badge.",
+  "fr": "- Les paroles apparaissent maintenant dans la liste des modules sous « Musique » dans toutes les versions (auparavant cachées uniquement dans l'éditeur HUD).\n- Nouveau badge traducteur : vert, intitulé « Translator ». Les membres de l'équipe ayant le rôle traducteur l'obtiennent à la place du badge équipe rose.",
+  "es": "- Las letras ahora aparecen en la lista de módulos bajo «Música» en todas las versiones (antes solo estaban ocultas en el editor de HUD).\n- Nuevo distintivo de traductor: verde, con la etiqueta «Translator». Los miembros del equipo con el rol de traductor lo reciben en lugar del distintivo rosa de equipo."
+ },
+ {
   "client": "0.5.70",
   "launcher": "0.5.74",
   "date": "2026-11-04",
