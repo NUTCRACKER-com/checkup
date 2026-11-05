@@ -1,5 +1,14 @@
 [
  {
+  "client": "0.5.72",
+  "launcher": "0.5.76",
+  "date": "2026-11-05",
+  "de": "- Liedtext erscheint jetzt wirklich in der Modulliste unter „Musik“ (in den älteren Versionen fehlte er dort bisher).",
+  "en": "- Lyrics now really show up in the module list under \"Music\" (they were missing there in the older versions).",
+  "fr": "- Les paroles apparaissent maintenant vraiment dans la liste des modules sous « Musique » (elles manquaient dans les anciennes versions).",
+  "es": "- Las letras ahora aparecen realmente en la lista de módulos bajo «Música» (faltaban en las versiones antiguas)."
+ },
+ {
   "client": "0.5.71",
   "launcher": "0.5.75",
   "date": "2026-11-05",
