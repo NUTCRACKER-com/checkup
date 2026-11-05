@@ -1,16 +1,22 @@
-notesEs: "- Las letras ahora aparecen en la lista de módulos bajo «Música» en todas las versiones (antes solo estaban ocultas en el editor de HUD).\n- Nuevo distintivo de traductor: verde, con la etiqueta «Translator». Los miembros del equipo con el rol de traductor lo reciben en lugar del distintivo rosa de equipo."
-notesFr: "- Les paroles apparaissent maintenant dans la liste des modules sous « Musique » dans toutes les versions (auparavant cachées uniquement dans l'éditeur HUD).\n- Nouveau badge traducteur : vert, intitulé « Translator ». Les membres de l'équipe ayant le rôle traducteur l'obtiennent à la place du badge équipe rose."
-changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1567887105034551427"
-notesEn: "- Lyrics now appear in the module list under \"Music\" in all versions (previously hidden in the HUD editor only).\n- New translator badge: green, labelled \"Translator\". Team members with the translator role get it instead of the pink team badge."
-latest: "0.5.75"
+notesEs: "- Las letras ahora aparecen realmente en la lista de módulos bajo «Música» (faltaban en las versiones antiguas)."
+notesFr: "- Les paroles apparaissent maintenant vraiment dans la liste des modules sous « Musique » (elles manquaient dans les anciennes versions)."
+changelogUrl: "https://laby.net/download"
+notesEn: "- Lyrics now really show up in the module list under \"Music\" (they were missing there in the older versions)."
+latest: "0.5.76"
 minSupported: "0.1.0"
 releasesRepo: "NUTCRACKER-com/checkup"
-notes: "- Liedtext ist in allen Versionen jetzt in der Modulliste unter „Musik“ zu finden (vorher nur im HUD-Editor versteckt).\n- Neues Abzeichen für Übersetzer: grün, mit der Bezeichnung „Translator“. Team-Mitglieder mit Übersetzer-Rolle bekommen es statt des pinken Team-Abzeichens."
+notes: "- Liedtext erscheint jetzt wirklich in der Modulliste unter „Musik“ (in den älteren Versionen fehlte er dort bisher)."
 
 # Alle Versionen, neueste zuerst. Erscheinen im Launcher unter
 # Einstellungen -> Version als auswählbare Liste (Downgrade/Pin auf eine
 # bestimmte Version, nicht nur "immer neueste").
 versions:
+  - version: "0.5.76"
+    date: "2026-11-05"
+    notes: "- Liedtext erscheint jetzt wirklich in der Modulliste unter „Musik“ (in den älteren Versionen fehlte er dort bisher)."
+    notesEn: "- Lyrics now really show up in the module list under \"Music\" (they were missing there in the older versions)."
+    notesFr: "- Les paroles apparaissent maintenant vraiment dans la liste des modules sous « Musique » (elles manquaient dans les anciennes versions)."
+    notesEs: "- Las letras ahora aparecen realmente en la lista de módulos bajo «Música» (faltaban en las versiones antiguas)."
   - version: "0.5.75"
     date: "2026-11-05"
     notes: "- Liedtext ist in allen Versionen jetzt in der Modulliste unter „Musik“ zu finden (vorher nur im HUD-Editor versteckt).\n- Neues Abzeichen für Übersetzer: grün, mit der Bezeichnung „Translator“. Team-Mitglieder mit Übersetzer-Rolle bekommen es statt des pinken Team-Abzeichens."
