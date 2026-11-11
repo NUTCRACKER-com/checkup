@@ -1,16 +1,22 @@
-notesEs: "- HUD layout and module settings now apply to every instance - no need to set them up again per instance."
-notesFr: "- HUD layout and module settings now apply to every instance - no need to set them up again per instance."
+notesEs: "- HUD layout and module settings now apply to every instance - no need to set them up again per instance.\n- The launcher now finds instance folders on startup and re-adds missing instances automatically; a backup is saved before the list ever shrinks."
+notesFr: "- HUD layout and module settings now apply to every instance - no need to set them up again per instance.\n- The launcher now finds instance folders on startup and re-adds missing instances automatically; a backup is saved before the list ever shrinks."
 changelogUrl: "https://laby.net/download"
-notesEn: "- HUD layout and module settings now apply to every instance - no need to set them up again per instance."
-latest: "0.5.77"
+notesEn: "- HUD layout and module settings now apply to every instance - no need to set them up again per instance.\n- The launcher now finds instance folders on startup and re-adds missing instances automatically; a backup is saved before the list ever shrinks."
+latest: "0.5.78"
 minSupported: "0.1.0"
 releasesRepo: "NUTCRACKER-com/checkup"
-notes: "- HUD-Layout und Modul-Einstellungen gelten jetzt für jede Instanz – nicht mehr pro Instanz neu einstellen."
+notes: "- HUD-Layout und Modul-Einstellungen gelten jetzt für jede Instanz – nicht mehr pro Instanz neu einstellen.\n- Der Launcher findet Instanz-Ordner beim Start selbst wieder und trägt fehlende Instanzen automatisch ein; vor jedem Schrumpfen der Liste wird eine Sicherung angelegt."
 
 # Alle Versionen, neueste zuerst. Erscheinen im Launcher unter
 # Einstellungen -> Version als auswählbare Liste (Downgrade/Pin auf eine
 # bestimmte Version, nicht nur "immer neueste").
 versions:
+  - version: "0.5.78"
+    date: "2026-11-11"
+    notes: "- HUD-Layout und Modul-Einstellungen gelten jetzt für jede Instanz – nicht mehr pro Instanz neu einstellen.\n- Der Launcher findet Instanz-Ordner beim Start selbst wieder und trägt fehlende Instanzen automatisch ein; vor jedem Schrumpfen der Liste wird eine Sicherung angelegt."
+    notesEn: "- HUD layout and module settings now apply to every instance - no need to set them up again per instance.\n- The launcher now finds instance folders on startup and re-adds missing instances automatically; a backup is saved before the list ever shrinks."
+    notesFr: "- HUD layout and module settings now apply to every instance - no need to set them up again per instance.\n- The launcher now finds instance folders on startup and re-adds missing instances automatically; a backup is saved before the list ever shrinks."
+    notesEs: "- HUD layout and module settings now apply to every instance - no need to set them up again per instance.\n- The launcher now finds instance folders on startup and re-adds missing instances automatically; a backup is saved before the list ever shrinks."
   - version: "0.5.77"
     date: "2026-11-11"
     notes: "- HUD-Layout und Modul-Einstellungen gelten jetzt für jede Instanz – nicht mehr pro Instanz neu einstellen."
