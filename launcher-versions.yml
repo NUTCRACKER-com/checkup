@@ -1,16 +1,22 @@
-notesEs: "- HUD layout and module settings now apply to every instance - no need to set them up again per instance.\n- The launcher now finds instance folders on startup and re-adds missing instances automatically; a backup is saved before the list ever shrinks."
-notesFr: "- HUD layout and module settings now apply to every instance - no need to set them up again per instance.\n- The launcher now finds instance folders on startup and re-adds missing instances automatically; a backup is saved before the list ever shrinks."
+notesEs: "- Going back from multiplayer, singleplayer and other menus always returns to the NUTclient title screen.\n- New window for adding/editing servers and direct connect.\n- Saved hotbars: 36 instead of 9 rows, scrollable.\n- Move servers and worlds with Ctrl + arrow keys too.\n- LyricsPlus: no more hard-coded keys (\"HUD Enabled\" while walking fixed).\n- New menu backgrounds: Christmas (snow) and Plain."
+notesFr: "- Going back from multiplayer, singleplayer and other menus always returns to the NUTclient title screen.\n- New window for adding/editing servers and direct connect.\n- Saved hotbars: 36 instead of 9 rows, scrollable.\n- Move servers and worlds with Ctrl + arrow keys too.\n- LyricsPlus: no more hard-coded keys (\"HUD Enabled\" while walking fixed).\n- New menu backgrounds: Christmas (snow) and Plain."
 changelogUrl: "https://laby.net/download"
-notesEn: "- HUD layout and module settings now apply to every instance - no need to set them up again per instance.\n- The launcher now finds instance folders on startup and re-adds missing instances automatically; a backup is saved before the list ever shrinks."
-latest: "0.5.79"
+notesEn: "- Going back from multiplayer, singleplayer and other menus always returns to the NUTclient title screen.\n- New window for adding/editing servers and direct connect.\n- Saved hotbars: 36 instead of 9 rows, scrollable.\n- Move servers and worlds with Ctrl + arrow keys too.\n- LyricsPlus: no more hard-coded keys (\"HUD Enabled\" while walking fixed).\n- New menu backgrounds: Christmas (snow) and Plain."
+latest: "0.5.81"
 minSupported: "0.1.0"
 releasesRepo: "NUTCRACKER-com/checkup"
-notes: "- HUD-Layout und Modul-Einstellungen gelten jetzt für jede Instanz – nicht mehr pro Instanz neu einstellen.\n- Der Launcher findet Instanz-Ordner beim Start selbst wieder und trägt fehlende Instanzen automatisch ein; vor jedem Schrumpfen der Liste wird eine Sicherung angelegt."
+notes: "- Zurück aus Mehrspieler, Einzelspieler und anderen Menüs führt immer zum NUTclient-Titelbildschirm.\n- Eigenes Fenster für Server hinzufügen/bearbeiten und Direktverbindung.\n- Gespeicherte Hotbars: 36 statt 9 Zeilen, scrollbar.\n- Server und Welten auch mit Strg + Pfeil verschieben.\n- LyricsPlus: keine feste Tastenabfrage mehr („HUD Enabled“ beim Laufen behoben).\n- Neue Menü-Hintergründe: Weihnachten (Schnee) und Schlicht."
 
 # Alle Versionen, neueste zuerst. Erscheinen im Launcher unter
 # Einstellungen -> Version als auswählbare Liste (Downgrade/Pin auf eine
 # bestimmte Version, nicht nur "immer neueste").
 versions:
+  - version: "0.5.81"
+    date: "2026-11-15"
+    notes: "- Zurück aus Mehrspieler, Einzelspieler und anderen Menüs führt immer zum NUTclient-Titelbildschirm.\n- Eigenes Fenster für Server hinzufügen/bearbeiten und Direktverbindung.\n- Gespeicherte Hotbars: 36 statt 9 Zeilen, scrollbar.\n- Server und Welten auch mit Strg + Pfeil verschieben.\n- LyricsPlus: keine feste Tastenabfrage mehr („HUD Enabled“ beim Laufen behoben).\n- Neue Menü-Hintergründe: Weihnachten (Schnee) und Schlicht."
+    notesEn: "- Going back from multiplayer, singleplayer and other menus always returns to the NUTclient title screen.\n- New window for adding/editing servers and direct connect.\n- Saved hotbars: 36 instead of 9 rows, scrollable.\n- Move servers and worlds with Ctrl + arrow keys too.\n- LyricsPlus: no more hard-coded keys (\"HUD Enabled\" while walking fixed).\n- New menu backgrounds: Christmas (snow) and Plain."
+    notesFr: "- Going back from multiplayer, singleplayer and other menus always returns to the NUTclient title screen.\n- New window for adding/editing servers and direct connect.\n- Saved hotbars: 36 instead of 9 rows, scrollable.\n- Move servers and worlds with Ctrl + arrow keys too.\n- LyricsPlus: no more hard-coded keys (\"HUD Enabled\" while walking fixed).\n- New menu backgrounds: Christmas (snow) and Plain."
+    notesEs: "- Going back from multiplayer, singleplayer and other menus always returns to the NUTclient title screen.\n- New window for adding/editing servers and direct connect.\n- Saved hotbars: 36 instead of 9 rows, scrollable.\n- Move servers and worlds with Ctrl + arrow keys too.\n- LyricsPlus: no more hard-coded keys (\"HUD Enabled\" while walking fixed).\n- New menu backgrounds: Christmas (snow) and Plain."
   - version: "0.5.79"
     date: "2026-11-13"
     notes: "- HUD-Layout und Modul-Einstellungen gelten jetzt für jede Instanz – nicht mehr pro Instanz neu einstellen.\n- Der Launcher findet Instanz-Ordner beim Start selbst wieder und trägt fehlende Instanzen automatisch ein; vor jedem Schrumpfen der Liste wird eine Sicherung angelegt."
