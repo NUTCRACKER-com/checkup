@@ -2,7 +2,7 @@ notesEs: "- Beta: advent calendar button for admins, disconnect screen fixes and
 notesFr: "- Beta: advent calendar button for admins, disconnect screen fixes and no extra login on server transfers."
 changelogUrl: "https://laby.net/download"
 notesEn: "- Beta: advent calendar button for admins, disconnect screen fixes and no extra login on server transfers."
-latest: "0.5.86"
+latest: "0.5.87"
 minSupported: "0.1.0"
 releasesRepo: "NUTCRACKER-com/checkup"
 notes: "- Beta: Adventskalender-Knopf für Admins, Trennen-Fenster und Transfer-Fix."
@@ -11,6 +11,12 @@ notes: "- Beta: Adventskalender-Knopf für Admins, Trennen-Fenster und Transfer-
 # Einstellungen -> Version als auswählbare Liste (Downgrade/Pin auf eine
 # bestimmte Version, nicht nur "immer neueste").
 versions:
+  - version: "0.5.87"
+    date: "2026-11-18"
+    notes: "- Beta: Adventskalender-Knopf für Admins, Trennen-Fenster und Transfer-Fix."
+    notesEn: "- Beta: advent calendar button for admins, disconnect screen fixes and no extra login on server transfers."
+    notesFr: "- Beta: advent calendar button for admins, disconnect screen fixes and no extra login on server transfers."
+    notesEs: "- Beta: advent calendar button for admins, disconnect screen fixes and no extra login on server transfers."
   - version: "0.5.86"
     date: "2026-11-18"
     notes: "- Beta: Adventskalender-Knopf für Admins, Trennen-Fenster und Transfer-Fix."
