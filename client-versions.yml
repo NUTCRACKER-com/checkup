@@ -7,7 +7,7 @@ betaJarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-
 betaNotesEn: "- Beta: advent calendar button for admins, disconnect screen fixes and no extra login on server transfers."
 betaNotes: "- Beta: Adventskalender-Knopf für Admins, Trennen-Fenster und Transfer-Fix."
 betaLatest: "0.5.82"
-changelogUrl: "https://laby.net/download"
+changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1572689907254698106"
 sha1: "230d3304fa5583ab418ea73dc3e498acdaf14f95"
 jarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-v0.5.83/nutclient-0.5.83.jar"
 notesEn: "- New name and logo: NUTclient is now WRLD Client (mod icon, menus, launcher).\n- New: Christmas mode with matching menu backgrounds (can be turned off).\n- New: menu background with your own image or your latest 360° capture (360° capture is off by default).\n- New: hide server IP (eye icon in the edit window).\n- New: bossbar module, narrator protection, stream chat (Twitch) and the /nutm command to change modules from chat.\n- Lyrics: simplified, only our own 2D display remains.\n- Image uploads (Imgur) are downscaled first.\n- Fixes: disconnect screen, server transfer without logging in again, button style in vanilla menus, crash in the hotbar module."
