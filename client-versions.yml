@@ -7,7 +7,7 @@ betaJarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-
 betaNotesEn: "- Beta: advent calendar button for admins, disconnect screen fixes and no extra login on server transfers."
 betaNotes: "- Beta: Adventskalender-Knopf für Admins, Trennen-Fenster und Transfer-Fix."
 betaLatest: "0.5.82"
-changelogUrl: "https://laby.net/download"
+changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1573422146951053343"
 sha1: "e7f5e9b66ad7e96b47e80389e3100a1a8bb5312b"
 jarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-v0.5.86/nutclient-0.5.86.jar"
 notesEn: "- New: 3D advent calendar with real blocks (bigger tree, gifts).\n- New: new logo and name WRLD Client (mod icon, menus, launcher).\n- New: account roles in the dashboard (viewer / admin).\n- New: launcher version 0.5.90 with improvements to settings, friends and cosmetics.\n- Fixes: more stable sign-in and friends list; backend and Discord bot updated."
