@@ -1,5 +1,14 @@
 [
  {
+  "client": "0.5.86",
+  "launcher": "0.5.91",
+  "date": "2026-11-20",
+  "de": "- Neu: Adventskalender in 3D mit echten Blöcken (größerer Baum, Geschenke).\n- Neu: Neues Logo und neuer Name WRLD Client (Mod-Icon, Menüs, Launcher).\n- Neu: Konten-Rollen im Dashboard (Betrachter / Admin).\n- Neu: Launcher-Version 0.5.90 mit Verbesserungen an Einstellungen, Freunde und Cosmetics.\n- Korrekturen: Stabilere Anmeldung und Freundesliste, Backend und Discord-Bot aktualisiert.",
+  "en": "- New: 3D advent calendar with real blocks (bigger tree, gifts).\n- New: new logo and name WRLD Client (mod icon, menus, launcher).\n- New: account roles in the dashboard (viewer / admin).\n- New: launcher version 0.5.90 with improvements to settings, friends and cosmetics.\n- Fixes: more stable sign-in and friends list; backend and Discord bot updated.",
+  "fr": "- Nouveau : calendrier de l'Avent en 3D avec de vrais blocs (arbre plus grand, cadeaux).\n- Nouveau : nouveau logo et nouveau nom WRLD Client (icône du mod, menus, launcher).\n- Nouveau : rôles de compte dans le tableau de bord (observateur / admin).\n- Nouveau : launcher version 0.5.90 avec des améliorations des paramètres, amis et cosmétiques.\n- Corrections : connexion et liste d'amis plus stables ; backend et bot Discord mis à jour.",
+  "es": "- Nuevo: calendario de adviento en 3D con bloques reales (árbol más grande, regalos).\n- Nuevo: nuevo logo y nuevo nombre WRLD Client (icono del mod, menús, launcher).\n- Nuevo: roles de cuenta en el panel (espectador / admin).\n- Nuevo: launcher versión 0.5.90 con mejoras en ajustes, amigos y cosméticos.\n- Correcciones: inicio de sesión y lista de amigos más estables; backend y bot de Discord actualizados."
+ },
+ {
   "client": "0.5.83",
   "launcher": "0.5.88",
   "date": "2026-11-18",
