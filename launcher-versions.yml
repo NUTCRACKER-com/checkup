@@ -1,16 +1,22 @@
-notesEs: "- Nuevo: calendario de adviento en 3D con bloques reales (árbol más grande, regalos).\n- Nuevo: nuevo logo y nuevo nombre WRLD Client (icono del mod, menús, launcher).\n- Nuevo: roles de cuenta en el panel (espectador / admin).\n- Nuevo: launcher versión 0.5.90 con mejoras en ajustes, amigos y cosméticos.\n- Correcciones: inicio de sesión y lista de amigos más estables; backend y bot de Discord actualizados."
-notesFr: "- Nouveau : calendrier de l'Avent en 3D avec de vrais blocs (arbre plus grand, cadeaux).\n- Nouveau : nouveau logo et nouveau nom WRLD Client (icône du mod, menus, launcher).\n- Nouveau : rôles de compte dans le tableau de bord (observateur / admin).\n- Nouveau : launcher version 0.5.90 avec des améliorations des paramètres, amis et cosmétiques.\n- Corrections : connexion et liste d'amis plus stables ; backend et bot Discord mis à jour."
-changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1573422146951053343"
-notesEn: "- New: 3D advent calendar with real blocks (bigger tree, gifts).\n- New: new logo and name WRLD Client (mod icon, menus, launcher).\n- New: account roles in the dashboard (viewer / admin).\n- New: launcher version 0.5.90 with improvements to settings, friends and cosmetics.\n- Fixes: more stable sign-in and friends list; backend and Discord bot updated."
-latest: "0.5.91"
+notesEs: "- Corrección: El lanzador antiguo «NUTclient» se elimina al instalar la actualización. Antes reinstalaba el instalador en cada inicio.\n- Nuevo: tema navideño en el juego (rojo/blanco/verde/dorado, regalo en la esquina). Se puede desactivar en el módulo de Navidad para volver al morado."
+notesFr: "- Correction : L'ancien lanceur « NUTclient » est supprimé lors de l'installation de la mise à jour. Avant, il réinstallait le programme d'installation à chaque démarrage.\n- Nouveau : thème de Noël dans le jeu (rouge/blanc/vert/or, cadeau dans le coin). Désactivable dans le module Noël pour revenir au violet."
+changelogUrl: "https://laby.net/download"
+notesEn: "- Fix: The old launcher \"NUTclient\" is removed when the update is installed. Before, it reinstalled the setup on every start.\n- New: Christmas design in the game (red/white/green/gold, gift in the corner). Can be switched off in the Christmas module to get the purple look back."
+latest: "0.5.92"
 minSupported: "0.1.0"
 releasesRepo: "NUTCRACKER-com/checkup"
-notes: "- Neu: Adventskalender in 3D mit echten Blöcken (größerer Baum, Geschenke).\n- Neu: Neues Logo und neuer Name WRLD Client (Mod-Icon, Menüs, Launcher).\n- Neu: Konten-Rollen im Dashboard (Betrachter / Admin).\n- Neu: Launcher-Version 0.5.90 mit Verbesserungen an Einstellungen, Freunde und Cosmetics.\n- Korrekturen: Stabilere Anmeldung und Freundesliste, Backend und Discord-Bot aktualisiert."
+notes: "- Fix: Der alte Launcher „NUTclient“ wird beim Installieren des Updates entfernt. Vorher hat er bei jedem Start das Setup erneut installiert.\n- Neu: Weihnachts-Design im Spiel (Rot/Weiß/Grün/Gold, Geschenk in der Ecke). Im Weihnachtsmodus abschaltbar, dann wieder Lila."
 
 # Alle Versionen, neueste zuerst. Erscheinen im Launcher unter
 # Einstellungen -> Version als auswählbare Liste (Downgrade/Pin auf eine
 # bestimmte Version, nicht nur "immer neueste").
 versions:
+  - version: "0.5.92"
+    date: "2026-11-22"
+    notes: "- Fix: Der alte Launcher „NUTclient“ wird beim Installieren des Updates entfernt. Vorher hat er bei jedem Start das Setup erneut installiert.\n- Neu: Weihnachts-Design im Spiel (Rot/Weiß/Grün/Gold, Geschenk in der Ecke). Im Weihnachtsmodus abschaltbar, dann wieder Lila."
+    notesEn: "- Fix: The old launcher \"NUTclient\" is removed when the update is installed. Before, it reinstalled the setup on every start.\n- New: Christmas design in the game (red/white/green/gold, gift in the corner). Can be switched off in the Christmas module to get the purple look back."
+    notesFr: "- Correction : L'ancien lanceur « NUTclient » est supprimé lors de l'installation de la mise à jour. Avant, il réinstallait le programme d'installation à chaque démarrage.\n- Nouveau : thème de Noël dans le jeu (rouge/blanc/vert/or, cadeau dans le coin). Désactivable dans le module Noël pour revenir au violet."
+    notesEs: "- Corrección: El lanzador antiguo «NUTclient» se elimina al instalar la actualización. Antes reinstalaba el instalador en cada inicio.\n- Nuevo: tema navideño en el juego (rojo/blanco/verde/dorado, regalo en la esquina). Se puede desactivar en el módulo de Navidad para volver al morado."
   - version: "0.5.91"
     date: "2026-11-20"
     notes: "- Neu: Adventskalender in 3D mit echten Blöcken (größerer Baum, Geschenke).\n- Neu: Neues Logo und neuer Name WRLD Client (Mod-Icon, Menüs, Launcher).\n- Neu: Konten-Rollen im Dashboard (Betrachter / Admin).\n- Neu: Launcher-Version 0.5.90 mit Verbesserungen an Einstellungen, Freunde und Cosmetics.\n- Korrekturen: Stabilere Anmeldung und Freundesliste, Backend und Discord-Bot aktualisiert."
