@@ -1,6 +1,6 @@
 notesEs: "- Corrección: El lanzador antiguo «NUTclient» se elimina al instalar la actualización. Antes reinstalaba el instalador en cada inicio.\n- Nuevo: tema navideño en el juego (rojo/blanco/verde/dorado, regalo en la esquina). Se puede desactivar en el módulo de Navidad para volver al morado."
 notesFr: "- Correction : L'ancien lanceur « NUTclient » est supprimé lors de l'installation de la mise à jour. Avant, il réinstallait le programme d'installation à chaque démarrage.\n- Nouveau : thème de Noël dans le jeu (rouge/blanc/vert/or, cadeau dans le coin). Désactivable dans le module Noël pour revenir au violet."
-changelogUrl: "https://laby.net/download"
+changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1574158190910644285"
 notesEn: "- Fix: The old launcher \"NUTclient\" is removed when the update is installed. Before, it reinstalled the setup on every start.\n- New: Christmas design in the game (red/white/green/gold, gift in the corner). Can be switched off in the Christmas module to get the purple look back."
 latest: "0.5.92"
 minSupported: "0.1.0"
