@@ -7,7 +7,7 @@ betaJarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-
 betaNotesEn: "- Beta: advent calendar button for admins, disconnect screen fixes and no extra login on server transfers."
 betaNotes: "- Beta: Adventskalender-Knopf für Admins, Trennen-Fenster und Transfer-Fix."
 betaLatest: "0.5.82"
-changelogUrl: "https://laby.net/download"
+changelogUrl: "https://discord.com/channels/1552692175295217785/1553460931105656956/1574158190910644285"
 sha1: "55f81466c14541ea536aef3789ec806521591feb"
 jarUrl: "https://github.com/NUTCRACKER-com/checkup/releases/download/client-v0.5.87/nutclient-0.5.87.jar"
 notesEn: "- Fix: The old launcher \"NUTclient\" is removed when the update is installed. Before, it reinstalled the setup on every start.\n- New: Christmas design in the game (red/white/green/gold, gift in the corner). Can be switched off in the Christmas module to get the purple look back."
