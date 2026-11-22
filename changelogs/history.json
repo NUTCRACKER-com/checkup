@@ -1,5 +1,14 @@
 [
  {
+  "client": "0.5.87",
+  "launcher": "0.5.92",
+  "date": "2026-11-22",
+  "de": "- Fix: Der alte Launcher „NUTclient“ wird beim Installieren des Updates entfernt. Vorher hat er bei jedem Start das Setup erneut installiert.\n- Neu: Weihnachts-Design im Spiel (Rot/Weiß/Grün/Gold, Geschenk in der Ecke). Im Weihnachtsmodus abschaltbar, dann wieder Lila.",
+  "en": "- Fix: The old launcher \"NUTclient\" is removed when the update is installed. Before, it reinstalled the setup on every start.\n- New: Christmas design in the game (red/white/green/gold, gift in the corner). Can be switched off in the Christmas module to get the purple look back.",
+  "fr": "- Correction : L'ancien lanceur « NUTclient » est supprimé lors de l'installation de la mise à jour. Avant, il réinstallait le programme d'installation à chaque démarrage.\n- Nouveau : thème de Noël dans le jeu (rouge/blanc/vert/or, cadeau dans le coin). Désactivable dans le module Noël pour revenir au violet.",
+  "es": "- Corrección: El lanzador antiguo «NUTclient» se elimina al instalar la actualización. Antes reinstalaba el instalador en cada inicio.\n- Nuevo: tema navideño en el juego (rojo/blanco/verde/dorado, regalo en la esquina). Se puede desactivar en el módulo de Navidad para volver al morado."
+ },
+ {
   "client": "0.5.86",
   "launcher": "0.5.91",
   "date": "2026-11-20",
